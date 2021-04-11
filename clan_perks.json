@@ -1,0 +1,99 @@
+{
+    "1":{
+        "Clan Item":{
+            "Light":"Light Clan Necklace",
+            "Dark":"Darkness Clan Necklace"
+        },
+        "Clan Expression":"This Way",
+        "Daily Gems Bonus":50
+    },
+    "2":{
+        "Clan Item":{
+            "Light":"Light Clan Hoodie",
+            "Dark":" Darkness Clan Hoodie"
+        },
+        "Daily Gems Bonus":100,
+        "XP Increase":0.5,
+        "Fishmonger Deals":1
+    },
+    "3":{
+        "Clan Item":{
+            "Light":"Light Clan Facepaint",
+            "Dark":"Darkness Clan Facepaint"
+        },
+        "Daily Gems Bonus":150,
+        "XP Increase":1,
+        "Tree Growth":4,
+        "Extra PWE Slot":1
+    },
+    "4":{
+        "Clan Item":{
+            "Light":"Light Clan Visor",
+            "Dark":"Darkness Clan Visor"
+        },
+        "Clan Expression":"Cheer",
+        "Daily Gems Bonus":200,
+        "XP Increase":1.5,
+        "Netherworld":25
+    },
+    "5":{
+        "Clan Item":{
+            "Light":"Light Clan Shield",
+            "Dark":"Darkness Clan Shield"
+        },
+        "Daily Gems Bonus":250,
+        "XP Increase":2,
+        "Fishmonger Deals":3
+    },
+    "6":{
+        "Clan Item":{
+            "Light":"​Light Clan Mask",
+            "Dark":"Darkness Clan Mask"
+        },
+        "Daily Gems Bonus":300,
+        "XP Increase":2.5,
+        "Tree Growth":10,
+        "Extra PWE Slot":2
+    },
+    "7":{
+        "Clan Item":{
+            "Light":"Light Clan Crown",
+            "Dark":"Darkness Clan Crown"
+        },
+        "Clan Expression":"Cuteness",
+        "Daily Gems Bonus":350,
+        "XP Increase":3,
+        "Netherworld":50
+    },
+    "8":{
+        "Clan Item":{
+            "Light":"Light Clan Sword",
+            "Dark":"Darkness Clan Sword"
+        },
+        "Clan Expression":"This Way",
+        "Daily Gems Bonus":400,
+        "XP Increase":4,
+        "Extra PWE Slot":3
+    },
+    "9":{
+        "Clan Item":{
+            "Light":"Baby Light",
+            "Dark":"Baby Darkness"
+        },
+        "Daily Gems Bonus":450,
+        "XP Increase":5,
+        "Fishmonger Deals":5,
+        "Tree Growth":20
+    },
+    "10":{
+        "Clan Item":{
+            "Light":"Light Clan Wings",
+            "Dark":"Darkness Clan Wings"
+        },
+        "Clan Expression":"Disgusted",
+        "Daily Gems Bonus":500,
+        "Extra PWE Slot":4,
+        "Netherworld":100,
+        "Free Perk Change":1
+    }
+}
