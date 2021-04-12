@@ -621,7 +621,7 @@
         "diff": "Very Hard",
         "reward": " Steel Mace and 4,000 XP"
     }],
-    "Buy buy buy!": [{
+    "Buy Buy Buy!": [{
         "stars": 1,
         "desc": "Buy 50,000  Byte Coins Worth of items in PWE",
         "diff": "Hard",
@@ -637,7 +637,7 @@
         "diff": "Extreme",
         "reward": "3 Day of  VIP and 6,000 XP"
     }],
-    "Sell sell sell!": [{
+    "Sell Sell Sell!": [{
         "stars": 1,
         "desc": "Sell 50,000  Byte Coins Worth of items in PWE",
         "diff": "Hard",
@@ -653,7 +653,7 @@
         "diff": "Extreme",
         "reward": "3 Day of  VIP and 6,000 XP"
     }],
-    "Master of Bytes": [{
+    "Master Of Bytes": [{
         "stars": 1,
         "desc": "Fullfill 10 item orders at PWE",
         "diff": "Easy",
