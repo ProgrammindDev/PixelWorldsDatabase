@@ -1,0 +1,778 @@
+{
+    "Veteran": [{
+        "stars": 1,
+        "desc": "Be a member of the community for a whole year! (Level 35+)",
+        "diff": "Medium",
+        "reward": "Sprite Wings and 7,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Be a member of the community for 1 000 days! (Level 35+)",
+        "diff": "Very Hard",
+        "reward": "Cape of Thousand Days and 10,000 XP"
+    }],
+    "Smasher": [{
+        "stars": 1,
+        "desc": "Break 5,000 Blocks",
+        "diff": "Easy",
+        "reward": "1 Day of VIP and 1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Break 25,000 Blocks",
+        "diff": "Medium",
+        "reward": "2 Days of VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Break 100,000 Blocks",
+        "diff": "Hard",
+        "reward": "3 Days of VIP and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Break 300,000 Blocks",
+        "diff": "Very Hard",
+        "reward": "4 Days of VIP and 7,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Break 1,000,000 Blocks",
+        "diff": "Very Extreme",
+        "reward": "10 Days of  VIP and 10,000 XP"
+    }],
+    "Hoarder": [{
+        "stars": 1,
+        "desc": "Have 30 Slots In Your Inventory",
+        "diff": "Easy",
+        "reward": "1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Have 40 Slots In Your Inventory",
+        "diff": "Easy",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Have 60 Slots In Your Inventory",
+        "diff": "Medium",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Have 80 Slots In Your Inventory",
+        "diff": "Hard",
+        "reward": "5,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Have 100 Slots In Your Inventory",
+        "diff": "Very Hard",
+        "reward": "8,000 XP"
+    }],
+    "Gem Farmer": [{
+        "stars": 1,
+        "desc": "Collect 5,000  Gems",
+        "diff": "Easy",
+        "reward": "1 Day of  VIP and 1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Collect 25,000  Gems",
+        "diff": "Easy",
+        "reward": "2 Days of  VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Collect 100,000  Gems",
+        "diff": "Medium",
+        "reward": "3 Days of  VIP and 5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Collect 250,000  Gems",
+        "diff": "Hard",
+        "reward": "4 Days of  VIP and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Collect 1,000,000  Gems",
+        "diff": "Very Hard",
+        "reward": "10 Days of  VIP and 10,000 XP"
+    }],
+    "Well Connected": [{
+        "stars": 1,
+        "desc": "Have 20 Players On Your Friend List",
+        "diff": "Easy",
+        "reward": "1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Have 40 Players On Your Friend List",
+        "diff": "Easy",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Have 60 Players On Your Friend List",
+        "diff": "Easy",
+        "reward": "3,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Have 80 Players On Your Friend List",
+        "diff": "Medium",
+        "reward": "4,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Have 100 Players On Your Friend List",
+        "diff": "Medium",
+        "reward": "5,000 XP"
+    }],
+    "Shard Fuser": [{
+        "stars": 1,
+        "desc": "Fuse  shards to higher rarity 5 times",
+        "diff": "Medium",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Fuse  Shards to higher rarity 25 times",
+        "diff": "Medium",
+        "reward": "3,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Fuse  Shards to higher rarity 50 times",
+        "diff": "Hard",
+        "reward": "5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Fuse  Shards to higher rarity 100 times",
+        "diff": "Very Hard",
+        "reward": "8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Fuse  Shards to higher rarity 250 times",
+        "diff": "Extreme",
+        "reward": "10,000 XP"
+    }],
+    "Master Crafter": [{
+        "stars": 1,
+        "desc": "Craft 1 item with the  Replicator",
+        "diff": "Medium",
+        "reward": "1 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Craft 2 items with the  Replicator",
+        "diff": "Hard",
+        "reward": "2 Days of  VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Craft 4 items with the  Replicator",
+        "diff": "Very Hard",
+        "reward": "3 Days of  VIP and 5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Craft 6 items with the  Replicator",
+        "diff": "Very Hard",
+        "reward": "4 Days of  VIP and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Craft 10 items with the  Replicator",
+        "diff": "Extreme",
+        "reward": "5 Days of  VIP"
+    }],
+    "Critic": [{
+        "stars": 1,
+        "desc": "Rate 5 Worlds",
+        "diff": "Easy",
+        "reward": "200  Gems and 1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Rate 25 Worlds",
+        "diff": "Easy",
+        "reward": "500  Gems and 2,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Rate 50 Worlds",
+        "diff": "Easy",
+        "reward": "750  Gems and 3,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Rate 75 Worlds",
+        "diff": "Medium",
+        "reward": "1,000  Gems and 4,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Rate 100 Worlds",
+        "diff": "Medium",
+        "reward": "2,500  Gems and 5,000 XP"
+    }],
+    "Shopping Spree": [{
+        "stars": 1,
+        "desc": "Spend 100,000  Gems in the Shop",
+        "diff": "Medium",
+        "reward": "1 Day of  VIP and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Spend 400,000  Gems in the Shop",
+        "diff": "Hard",
+        "reward": "2 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Spend 1,000,000  Gems in the Shop",
+        "diff": "Very Hard",
+        "reward": "3 Day of  VIP and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Spend 2,000,000  Gems in the Shop",
+        "diff": "Very Hard",
+        "reward": "4 Day of  VIP and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Spend 5,000,000  Gems in the Shop",
+        "diff": "Extreme",
+        "reward": "10 Day of  VIP and 10,000 XP"
+    }],
+    "World Hunter": [{
+        "stars": 1,
+        "desc": "Destroy a  decayed lock",
+        "diff": "Medium",
+        "reward": " Adventurer Hat and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Destroy 10  decayed lock(s)",
+        "diff": "Hard",
+        "reward": " Adventurer Shoes and 5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Destroy 50  decayed lock(s)",
+        "diff": "Hard",
+        "reward": " Adventurer Pants and 7,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Destroy 100  decayed lock(s)",
+        "diff": "Very Hard",
+        "reward": " Adventurer Shirt and 10,000 XP"
+    }],
+    "Quests King": [{
+        "stars": 1,
+        "desc": "Complete 50 Quests",
+        "diff": "Medium",
+        "reward": "500  Gems and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Complete 200 Quests",
+        "diff": "Hard",
+        "reward": "3500  Gems and 5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Complete 500 Quests",
+        "diff": "Very Hard",
+        "reward": "10,000  Gems and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Complete 750 Quests",
+        "diff": "Very Hard",
+        "reward": "15,000  Gems and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Complete 1000 Quests",
+        "diff": "Extreme",
+        "reward": "50,000  Gems and 10,000 XP"
+    }],
+    "Fashionista": [{
+        "stars": 1,
+        "desc": "Have 10 Different Wearables In Your Inventory",
+        "diff": "Easy",
+        "reward": "1,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Have 20 Different Wearables In Your Inventory",
+        "diff": "Easy",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Have 35 Different Wearables In Your Inventory",
+        "diff": "Easy",
+        "reward": "2,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Have 50 Different Wearables In Your Inventory",
+        "diff": "Medium",
+        "reward": "5,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Have 90 Different Wearables In Your Inventory",
+        "diff": "Hard",
+        "reward": "7,000 XP"
+    }],
+    "Familiar Cook": [{
+        "stars": 1,
+        "desc": "Produce Familiar Food 25 Times",
+        "diff": "Hard",
+        "reward": "1 Day of  VIP and 5,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Produce Familiar Food 50 Times",
+        "diff": "Very Hard",
+        "reward": "2 Days of  VIP and 6,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Produce Familiar Food 100 Times",
+        "diff": "Extreme",
+        "reward": "3 Days of  VIP and 8,000 XP"
+    }],
+    "Evolver": [{
+        "stars": 1,
+        "desc": "Evolve 1 Familiar(s)",
+        "diff": "Medium",
+        "reward": "1 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Evolve 2 Familiar(s)",
+        "diff": "Hard",
+        "reward": "1 Day of  VIP and 5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Evolve 3 Familiar(s)",
+        "diff": "Very Hard",
+        "reward": "2 Days of  VIP and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Evolve 4 Familiar(s)",
+        "diff": "Extreme",
+        "reward": "2 Days of  VIP and 7,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Evolve 5 Familiar(s)",
+        "diff": "Extreme",
+        "reward": "3 Days of  VIP and 8,000 XP"
+    }],
+    "Archaeologist": [{
+        "stars": 1,
+        "desc": "Assemble 1 Unique Fossil(s)",
+        "diff": "Very Hard",
+        "reward": " Bone Hammer and 5,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Assemble 2 Unique Fossil(s)",
+        "diff": "Extreme",
+        "reward": " Bone Armor and 7,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Assemble 3 Unique Fossil(s)",
+        "diff": "Very Extreme",
+        "reward": " Bone Helmet and 8,000 XP"
+    }],
+    "Harvester": [{
+        "stars": 1,
+        "desc": "Harvest 50,000 trees",
+        "diff": "Very Extreme",
+        "reward": " Sickle and 5,000 XP"
+    }],
+    "Trasher": [{
+        "stars": 1,
+        "desc": "Trash 5,000 items",
+        "diff": "Easy",
+        "reward": "3,000 XP"
+    }],
+    "Nether": [{
+        "stars": 1,
+        "desc": "Exit Netherworld via exit portal 10 times",
+        "diff": "Easy",
+        "reward": "500  Gems and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Exit Netherworld via exit portal 50 times",
+        "diff": "Medium",
+        "reward": "2,500  Gems and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Exit Netherworld via exit portal 100 times",
+        "diff": "Hard",
+        "reward": "5,000  Gems and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Exit Netherworld via exit portal 500 times",
+        "diff": "Very Hard",
+        "reward": "10,000  Gems and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Exit Netherworld via exit portal 1,000 times",
+        "diff": "Extreme",
+        "reward": "25,000  Gems and 10,000 XP"
+    }],
+    "Slayer": [{
+        "stars": 1,
+        "desc": "Slay 500 monsters",
+        "diff": "Easy",
+        "reward": "1 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Slay 2,000 monsters",
+        "diff": "Medium",
+        "reward": "2 Days of  VIP and 5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Slay 5,000 monsters",
+        "diff": "Hard",
+        "reward": "3 Days of  VIP and 7,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Slay 20,000 monsters",
+        "diff": "Very Hard",
+        "reward": "4 Days of  VIP and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Slay 50,000 monsters",
+        "diff": "Extreme",
+        "reward": "5 Days of  VIP and 10,000 XP"
+    }],
+    "Crossbreeder": [{
+        "stars": 1,
+        "desc": "Crossbreed 75 unique items.",
+        "diff": "Hard",
+        "reward": "4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Crossbreed 150 unique items.",
+        "diff": "Very Hard",
+        "reward": "5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Crossbreed 300 unique items.",
+        "diff": "Very Hard",
+        "reward": "6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Crossbreed 500 unique items.",
+        "diff": "Extreme",
+        "reward": "8,000 XP"
+    }],
+    "Lepidopterist": [{
+        "stars": 1,
+        "desc": "Catch 5  butterflies",
+        "diff": "Easy",
+        "reward": "300  Gems and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Catch 10  butterflies",
+        "diff": "Medium",
+        "reward": "750  Gems and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Catch 20  butterflies",
+        "diff": "Hard",
+        "reward": "1,000  Gems and 5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Catch 40  butterflies",
+        "diff": "Hard",
+        "reward": "2,500  Gems and 6,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Catch 100  butterflies",
+        "diff": "Very Hard",
+        "reward": "7500  Gems and 8,000 XP"
+    }],
+    "Untouchable!": [{
+        "stars": 1,
+        "desc": "Finish Deep Nether without taking damage",
+        "diff": "Hard",
+        "reward": " Hero Necklace and 5,000 XP"
+    }],
+    "Pacifist": [{
+        "stars": 1,
+        "desc": "Complete Netherworld with all monsters still alive",
+        "diff": "Very Hard",
+        "reward": " Pacifist Wreath and 5,000 XP"
+    }],
+    "Tagger": [{
+        "stars": 1,
+        "desc": "Paint 1 unique Graffiti",
+        "diff": "Medium",
+        "reward": " Street Artist Shoes and 4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Paint 2 unique Graffiti",
+        "diff": "Medium",
+        "reward": " Street Artist Pants and 5,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Paint 3 unique Graffiti",
+        "diff": "Hard",
+        "reward": " Street Artist Shirt and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Paint 4 unique Graffiti",
+        "diff": "Hard",
+        "reward": " Street Artist Scarf and 7,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Paint 5 unique Graffiti",
+        "diff": "Very Hard",
+        "reward": " Street Artist Mask and 8,000 XP"
+    }],
+    "Speeder": [{
+        "stars": 1,
+        "desc": "Finish Secret Base in less than 4 minutes once",
+        "diff": "Easy",
+        "reward": "50  Byte Coins 4,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Finish Secret Base in less than 4 minutes 25 times",
+        "diff": "Medium",
+        "reward": "2,000  Byte Coins and 7,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Finish Secret Base in less than 4 minutes 50 times",
+        "diff": "Hard",
+        "reward": "6,000  Byte Coins and 10,000 XP"
+    }],
+    "Superhero": [{
+        "stars": 1,
+        "desc": "Finish Secret Base alone without taking any damage (Level 35+)",
+        "diff": "Extreme",
+        "reward": " Heroic Blindfold and 7,000 XP"
+    }],
+    "Alchemist": [{
+        "stars": 1,
+        "desc": "Brew 5 Potions",
+        "diff": "Easy",
+        "reward": "10  Byte Coins and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Brew 50 Potions",
+        "diff": "Medium",
+        "reward": "150  Byte Coins and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Brew 250 Potions",
+        "diff": "Hard",
+        "reward": "1,000  Byte Coins and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Brew 500 Potions",
+        "diff": "Very Hard",
+        "reward": "2,000  Byte Coins and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Brew 1,000 Potions",
+        "diff": "Extreme",
+        "reward": "5,000  Byte Coins and 10,000 XP"
+    }],
+    "Master Fisher": [{
+        "stars": 1,
+        "desc": "Catch 500 fish",
+        "diff": "Easy",
+        "reward": " Old Diving Shoes and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Catch 2,000 fish",
+        "diff": "Medium",
+        "reward": " Old Diving Gloves and 3,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Catch 5,000 fish",
+        "diff": "Hard",
+        "reward": " Old Diving Suit and 5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Catch 10,000 fish",
+        "diff": "Very Hard",
+        "reward": " Old Diving Helmet and 7,000 XP"
+    }],
+    "Rodster": [{
+        "stars": 1,
+        "desc": "Upgrade a fishing rod to Superior",
+        "diff": "Hard",
+        "reward": " Fishing Amulet and 6,000 XP"
+    }],
+    "Trophy Fish": [{
+        "stars": 1,
+        "desc": "Catch a huge fish",
+        "diff": "Medium",
+        "reward": " Bubble Pipe and 5,000 XP"
+    }],
+    "Trusted Friend": [{
+        "id": 1,
+        "desc": "Gain Rights To Someone's  World Lock",
+        "level": "Easy",
+        "reward": "Blue Cape and 1,000 XP"
+    }],
+    "My World": [{
+        "stars": 1,
+        "desc": "Use a  World Lock To Claim a World As Yours",
+        "diff": "Easy",
+        "reward": "1,000 XP"
+    }],
+    "Instagram": [{
+        "stars": 1,
+        "desc": "Check Out Pixel Worlds on Instagram",
+        "diff": "Very Easy",
+        "reward": "50  Gems and 1,000 XP"
+    }],
+    "Youtube": [{
+        "id": 1,
+        "desc": "Check Out Pixel World's Youtube Channel",
+        "level": "Very Easy",
+        "reward": "50  Gems and 1,000 XP"
+    }],
+    "Steam": [{
+        "stars": 1,
+        "desc": "Play the game on Steam",
+        "diff": "Very Easy",
+        "reward": "50  Gems and 1,000 XP"
+    }],
+    "Secret Achievement 1": [{
+        "stars": 1,
+        "desc": "What could it be?",
+        "diff": "Medium",
+        "reward": "5,000 XP"
+    }],
+    "Secret Achievement 2": [{
+        "stars": 1,
+        "desc": "What could it be?",
+        "diff": "Very Hard",
+        "reward": " Steel Mace and 4,000 XP"
+    }],
+    "Buy buy buy!": [{
+        "stars": 1,
+        "desc": "Buy 50,000  Byte Coins Worth of items in PWE",
+        "diff": "Hard",
+        "reward": "1 Day of  VIP and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Buy 100,000  Byte Coins Worth of items in PWE",
+        "diff": "Very Hard",
+        "reward": "2 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Buy 250,000  Byte Coins Worth of items in PWE",
+        "diff": "Extreme",
+        "reward": "3 Day of  VIP and 6,000 XP"
+    }],
+    "Sell sell sell!": [{
+        "stars": 1,
+        "desc": "Sell 50,000  Byte Coins Worth of items in PWE",
+        "diff": "Hard",
+        "reward": "1 Day of  VIP and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Sell 100,000  Byte Coins Worth of items in PWE",
+        "diff": "Very Hard",
+        "reward": "2 Day of  VIP and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Sell 250,000  Byte Coins Worth of items in PWE",
+        "diff": "Extreme",
+        "reward": "3 Day of  VIP and 6,000 XP"
+    }],
+    "Master of Bytes": [{
+        "stars": 1,
+        "desc": "Fullfill 10 item orders at PWE",
+        "diff": "Easy",
+        "reward": "300  Gems and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Fullfill 100 item orders at PWE",
+        "diff": "Medium",
+        "reward": "750  Gems and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Fullfill 250 item orders at PWE",
+        "diff": "Hard",
+        "reward": "1,000  Gems and 5,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Fullfill 500 item orders at PWE",
+        "diff": "Very Hard",
+        "reward": "2,500  Gems and 6000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Fullfill 1,000 item orders at PWE",
+        "diff": "Very Hard",
+        "reward": "5,000 Gems and 8,000 XP"
+    }],
+    "Wraith 's Bane": [{
+        "stars": 1,
+        "desc": "Defeat the Netherworld miniboss alone (Level 35+)",
+        "diff": "Very Hard",
+        "reward": " Key of the Deep and 2,500 XP"
+    }],
+    "Well Done!": [{
+        "stars": 1,
+        "desc": "Reach pet level 5",
+        "diff": "Easy",
+        "reward": "3 Days of  VIP and 5,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Reach pet level 7",
+        "diff": "Medium",
+        "reward": "5 Days of  VIP and 8,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Reach pet level 10",
+        "diff": "Hard",
+        "reward": "10 Days of  VIP and 10,000 XP"
+    }],
+    "Wandering Companion": [{
+        "stars": 1,
+        "desc": "Reach 24 hours of pet adventures",
+        "diff": "Easy",
+        "reward": "150  Byte Coins and 3,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Reach 100 hours of pet adventures",
+        "diff": "Easy",
+        "reward": "500  Byte Coins and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Reach 250 hours of pet adventures",
+        "diff": "Medium",
+        "reward": "1,000  Byte Coins and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Reach 750 hours of pet adventures",
+        "diff": "Medium",
+        "reward": "2,000  Byte Coins and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Reach 1,000 hours of pet adventures",
+        "diff": "Hard",
+        "reward": "5,000  Byte Coins and 10,000 XP"
+    }],
+    "Epic Miner": [{
+        "stars": 1,
+        "desc": "Upgrade a pickaxe to Epic",
+        "diff": "Very Hard",
+        "reward": " Classic Pickaxe and 6,000 XP"
+    }],
+    "Escapist": [{
+        "stars": 1,
+        "desc": "Reach Mine Exit 10 times",
+        "diff": "Easy",
+        "reward": "500  Gems and 2,000 XP"
+    }, {
+        "stars": 2,
+        "desc": "Reach Mine Exit 50 times",
+        "diff": "Medium",
+        "reward": "2,500  Gems and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Reach Mine Exit 100 times",
+        "diff": "Medium",
+        "reward": "5,000  Gems and 6,000 XP"
+    }, {
+        "stars": 4,
+        "desc": "Reach Mine Exit 500 times",
+        "diff": "Hard",
+        "reward": "10,000  Gems and 8,000 XP"
+    }, {
+        "stars": 5,
+        "desc": "Reach Mine Exit 1,000 times",
+        "diff": "Very Hard",
+        "reward": "25,000  Gems and 10,000 XP"
+    }],
+    "Jet Racer": [{
+        "stars": 1,
+        "desc": "Finish Jet Races 10 times",
+        "diff": "Easy",
+        "reward": "150  Byte Coins and 1,500 XP"
+    }, {
+        "stars": 2,
+        "desc": "Finish Jet Races 50 times",
+        "diff": "Medium",
+        "reward": "500  Byte Coins and 4,000 XP"
+    }, {
+        "stars": 3,
+        "desc": "Finish Jet Races 100 times",
+        "diff": "Hard",
+        "reward": "1,000  Byte Coins and 6,000 XP"
+    }]
+}
