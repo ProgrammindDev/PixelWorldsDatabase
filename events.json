@@ -1,7 +1,7 @@
 {
-    "Once De Mayo": {
-        "desc": "To celebrate Once De Mayo, **Magic Stuff** have a chance to drop **Pi\u00f1ata**, which these, when broken, might drop you an Ultra Rare **Sombrero 21**.\n",
-        "date": "11th of May",
+    "Cinco De Mayo": {
+        "desc": "To celebrate Cinco De Mayo, **Magic Stuff** have a chance to drop **Pi\u00f1ata**, which these, when broken, might drop you an Ultra Rare **Sombrero 21**.\n",
+        "date": "4th of May",
         "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/cincodemayo_icon.png",
         "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/cincodemayo.png"
     },
