@@ -1,0 +1,158 @@
+{
+    "Once De Mayo": {
+        "desc": "To celebrate Once De Mayo, **Magic Stuff** have a chance to drop **Pi\u00f1ata**, which these, when broken, might drop you an Ultra Rare **Sombrero 21**.\n",
+        "date": "11th of May",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/cincodemayo_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/cincodemayo.png"
+    },
+    "Suomi Finland 100": {
+        "desc": "Finland turns 100 years old and a mini event starts in Pixel Worlds! Break **Soil Block** to gain **FIN Pennant** and from those pennants you will have to a chance to get a Modest **FIN Cap** to Celebrate this awesome event in our History in a very modest Finnish way!\n",
+        "date": "5th-7th of December 2017",
+        "icon": "",
+        "banner": ""
+    },
+    "Anniversary Event": {
+        "desc": "Look at the time fly! Pixel Worlds is celebrating its one year anniversary with a special mini event! During this event you have a chance to get a special **Anniversary Cake** by breaking **Magic Stuff**. Breaking **Anniversary Cake** gives you chance of getting rare **Anniversary Portal**.\n",
+        "date": "20th-21st January",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/anniversary_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/anniversary.png"
+    },
+    "Friday the 13th Event": {
+        "desc": "During this event, **Black Brick** have a special chance of dropping a **Sinister Calendar**, that in turn can drop a rare **Machete**.\n",
+        "date": "Every 13th Friday",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/friday13th_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/friday13th.png"
+    },
+    "Pet Owner's Day": {
+        "desc": "During this event all the **Familiars** that have ever been in the **Shop** are back! But only for this very limited time so you don't want to miss out this opportunity!\n",
+        "date": "Random day in April every year",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/petownersday_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/petownersday.png"
+    },
+    "Superhero Event": {
+        "desc": "Sam the Superhero needs our help to defeat the evil professor plotting against Pixel Worlds, so grab the strongest weapon and armor you can find and prepare to fight! In this event you'll need to collect\u00a020 **Blue Particle** to get into the **Secret Base** using a **Blue Portal** and defeat the **Manic Mecha** after passing through the different **monsters** and traps.You can team up with a maximum of two other players, and you'll have a chance to get some exclusive items! (Monthly event)\n",
+        "date": "1st Thursday of the Month - 2nd Thursday (1 week)",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/superhero_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/superhero.png"
+    },
+    "Celebrate the 4th of July!": {
+        "desc": "Happy 4th of July to all pixelians from the United States! To celebrate properly, the limited time special **Fireworks Booster** is back in the **Shop**! Light up the sky!\n",
+        "date": "4th of July",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fourthofjuly_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fourthofjuly.png"
+    },
+    "Flowers of Summer!": {
+        "desc": "To celebrate summertime **Lily**, **Rose** and **Sunflower** have a chance of dropping a **Flowers of Summer** that in turn can drop a rare **Giant Clam Chest**! So grow some flowers and get those event items! This event repeats every weekend until the end of August!\n",
+        "date": "Every Weekend of July-August",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/summerflowers_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/summerflowers.png"
+    },
+    "Spray Can Drop Boost": {
+        "desc": "Taggers unite! During this event, color blocks and tiles drop **Spray Can** at an increased rate for a limited time. Decorate your worlds and earn **Gems** by completing **Graffiti**!\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/spraycanboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/spraycanboost.png"
+    },
+    "Market Madness": {
+        "desc": "**PWE Terminal** discount! Don't miss this offer: The provision from all sales will be only 2% (normally 5%) for a limited time! Buy! Sell! Make profit!\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/marketmadness_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/marketmadness.png"
+    },
+    "Fishing Tournament": {
+        "desc": "In this weekly event you'll be able to participate in one of the available **Fishing#Tournament|Fishing Cups**, each one with different prizes and objectives. \n",
+        "date": "Weekly <br>(Friday - Sunday)",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fishingtournament_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fishingtournament.png"
+    },
+    "Archaeology Bone Boost": {
+        "desc": "Time to start excavating! During this event, the drop rates of **Bone Dust** and **Fossil** are greatly increased. Break things like **Sand**, **Sandy Cave Wall** and **Sandstone** to find them. Restore fossils for **gems** and unique **Achievements|achievement** prizes!\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/archeologyboneboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/archeologyboneboost.png"
+    },
+    "Perilous Piranhas": {
+        "desc": "Razor-sharp toothed **Piranha**s have invaded the waters of pixel worlds!\nCatch yourself a world record Piranha or craft a new **Worm Necklace** in this limited time event.\n",
+        "date": "4th Wednesday of the month",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fishingpiranha_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fishingpiranha.png"
+    },
+    "Clan XP Boost!": {
+        "desc": "During this event all Clan **XP** accumulated is increased by 10%. Go get some **XP** for your clan!\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/clanxpboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/clanxpboost.png"
+    },
+    "Treasure Hunt": {
+        "desc": "Treasure Chests and Gem Pouches are easier to obtain for a limited time! You can find them by breaking blocks, defeating **monsters** or **fishing**.\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/treasureboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/treasureboost.png"
+    },
+    "Netherworld Miniboss Hunt": {
+        "desc": "During this event a giant **Wraith Bane** can sometimes be found in the depths of the **Netherworld**. Team up with friends to vanquish it to get an achievement and loot including a **Quickdraw Blades of Nether** not obtainable in any other way.\n",
+        "date": "2nd Wednesday of the month",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/netherbosswraith_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/netherbosswraith.png"
+    },
+    "Farming Frenzy!": {
+        "desc": "During this event all seeds planted have their growth time halved. Time to plant those seeds!\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/farmingfrenzy_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/farmingfrenzy.png"
+    },
+    "Fireworks Super Sale": {
+        "desc": "It has been so awesome with you all in \"current year\" and we are looking forward to seeing you all in \"next year\"! To celebrate properly, the limited time special **Fireworks Booster** is back in the **Shop**! And instead of 800 **Gems** it is now only 300! So light up the sky! Happy New Year all pixelians!\n",
+        "date": "End of the Year",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fireworks_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/fireworks.png"
+    },
+    "Gone Fishing!": {
+        "desc": "During this event there is an improved chance of catching a huge fish. And if you don't, you can always tell people that it was huge but got away ;-)\n",
+        "date": "Random",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/gonefishing_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/gonefishing.png"
+    },
+    "Butterfly season!": {
+        "desc": "The chance of finding **Butterflies** in **Worlds** is going to be doubled. How exciting!\n",
+        "date": "Unknown",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/butterflyseason_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/butterflyseason.png"
+    },
+    "Please Recycle!": {
+        "desc": "Recycling is important both irl and in-game. During this event you get double point value from all recycled items! If you don't have a **Recycler**, you can get one from the Special Items category in the **Shop**. Don't be a punk, recycle your junk!\n",
+        "date": "Unknown",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/recycleimage_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/recycleimage.png"
+    },
+    "Double Potion Boost!": {
+        "desc": "During this event you get extra potion for every potion you create. So get your **Magic Cauldron** cooking! If you don't have one, they are available from the **Special Item Pack** section of the **Shop**.\n",
+        "date": "Unknown",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/potionboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/potionboost.png"
+    },
+    "Thanksgiving": {
+        "desc": "Today **Corn** has a special chance of dropping a **Roast Turkey**, that in turn can drop a rare **Pilgrim Hat**! Can you get one before the event ends?\n",
+        "date": "Late November",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/thanksgiving_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/thanksgiving.png"
+    },
+    "Catch a Snowflake!": {
+        "desc": "During this seasonal event Snowflakes appear in all worlds. Catch them by simply hitting one and you will get a free **Xmas Present**! Tap & Hold on the gift in your inventory to open it: You will get one random item from any of the active boosters and seed packs!\n",
+        "date": "During **X-Mas Event**",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/xmassnowflakes_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/xmassnowflakes.png"
+    },
+    "Clan Gem Boost!": {
+        "desc": "During this event all **gems** donated to your clan will add extra 10% of **gems** to the clan total. If you are going to level up your clan, now is the time to do it!\n",
+        "date": "Unknown",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/clangemboost_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/clangemboost.png"
+    },
+    "The Best Set": {
+        "desc": "The Best Set competition is on! Visit the Best Set stand in **Pixel Station** to check the theme and submit your entry. Winner gets 100,000 **gems** and a **Best Set Trophy**! During the Entry Phase create a set from your **Wearables** that you think best matches the theme. During the Voting Phase, cast votes for other players. Each vote you give increases your chances to win special 10,000 **gems** voting prize!\n",
+        "date": "Weekly",
+        "icon": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/thebestset_icon.png",
+        "banner": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/events/thebestset.png"
+    }
+}
