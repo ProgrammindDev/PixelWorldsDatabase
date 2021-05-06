@@ -122,7 +122,7 @@
     "Please Recycle!": {
         "desc": "Recycling is important both irl and in-game. During this event you get double point value from all recycled items! If you don't have a **Recycler**, you can get one from the Special Items category in the **Shop**. Don't be a punk, recycle your junk!\n",
         "date": "Unknown",
-        "icon": "recycleicone.png",
+        "icon": "recycleicon.png",
         "banner": "recycleevent.png"
     },
     "Double Potion Boost!": {
