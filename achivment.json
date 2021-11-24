@@ -582,7 +582,7 @@
     "Trusted Friend": [{
         "id": 1,
         "desc": "Gain Rights To Someone's  World Lock",
-        "level": "Easy",
+        "diff": "Easy",
         "reward": "Blue Cape and 1,000 XP"
     }],
     "My World": [{
@@ -600,7 +600,7 @@
     "Youtube": [{
         "id": 1,
         "desc": "Check Out Pixel World's Youtube Channel",
-        "level": "Very Easy",
+        "diff": "Very Easy",
         "reward": "50  Gems and 1,000 XP"
     }],
     "Steam": [{
