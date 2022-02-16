@@ -2228,11 +2228,11 @@
     "107": {
         "name": "Always Greener...",
         "desc": {
-            "en": "Discard all of your hand cards.\nDraw {0} cards.\n",
-            "fi": "Hylk\u00e4\u00e4 kaikki k\u00e4dess\u00e4si olevat kortit.\nVed\u00e4 {0} korttia.\n",
-            "pl": "Odrzu\u0107 wszystkie karty w r\u0119ce.\nDobierz {0} kart(y).\n",
-            "se": "Saka alla kort i din hand.\nDra {0} kort.\n",
-            "es": "Descarta toda tu mano.\nRoba {0} cartas.\n"
+            "en": "Discard all of your hand cards.\nDraw 4 cards.\n",
+            "fi": "Hylk\u00e4\u00e4 kaikki k\u00e4dess\u00e4si olevat kortit.\nVed\u00e4 4 korttia.\n",
+            "pl": "Odrzu\u0107 wszystkie karty w r\u0119ce.\nDobierz 4 kart(y).\n",
+            "se": "Saka alla kort i din hand.\nDra 4 kort.\n",
+            "es": "Descarta toda tu mano.\nRoba 4 cartas.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2312,11 +2312,11 @@
     "111": {
         "name": "Petrifying Gaze",
         "desc": {
-            "en": "{0} random cards are discarded from your opponent's hand.\n",
-            "fi": "Vastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n {0} sattumanvaraista korttia.\n",
-            "pl": "Z r\u0119ki przeciwnika odrzucane s\u0105 {0} losowe karty.\n",
-            "se": "{0} slumpm\u00e4ssiga kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
-            "es": "Tu oponente descarta {0} cartas al azar de su mano.\n"
+            "en": "2 random cards are discarded from your opponent's hand.\n",
+            "fi": "Vastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n 2 sattumanvaraista korttia.\n",
+            "pl": "Z r\u0119ki przeciwnika odrzucane s\u0105 2 losowe karty.\n",
+            "se": "2 slumpm\u00e4ssiga kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
+            "es": "Tu oponente descarta 2 cartas al azar de su mano.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2333,11 +2333,11 @@
     "112": {
         "name": "Oh Snap!",
         "desc": {
-            "en": "The opponent's allies get {0} during this turn.\nA random card is discarded from your opponent's hand.\n",
-            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla {0}.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
-            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 {0}.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
-            "se": "Motst\u00e5ndarens allierade f\u00e5r {0} under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
-            "es": "Los aliados del oponente modifican sus valores por {0} este turno.\nTu oponente descarta una carta al azar de su mano.\n"
+            "en": "The opponent's allies get -30 during this turn.\nA random card is discarded from your opponent's hand.\n",
+            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla -30.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
+            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 -30.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
+            "se": "Motst\u00e5ndarens allierade f\u00e5r -30 under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
+            "es": "Los aliados del oponente modifican sus valores por -30 este turno.\nTu oponente descarta una carta al azar de su mano.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2354,11 +2354,11 @@
     "113": {
         "name": "Gust of Wind",
         "desc": {
-            "en": "Your allies get {0} on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla {0}.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r {0} denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen {0} este turno.\nRoba una carta.\n"
+            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2396,11 +2396,11 @@
     "115": {
         "name": "Splash!",
         "desc": {
-            "en": "Your allies get {0} on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla {0}.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r {0} denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen {0} este turno.\nRoba una carta.\n"
+            "en": "Your allies get +15 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +15.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +15 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r +15 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen +15 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2438,11 +2438,11 @@
     "117": {
         "name": "Not Just a Spark",
         "desc": {
-            "en": "Your allies get {0} on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla {0}.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r {0} denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen {0} este turno.\nRoba una carta.\n"
+            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2459,11 +2459,11 @@
     "118": {
         "name": "Misleading Bat",
         "desc": {
-            "en": "During this turn, the opponent's allies get {0} to their highest base value.\n",
-            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla {0} siihen arvoon, joka on alkuper\u00e4iselt\u00e4 arvoltaan suurin.\n",
-            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 {0} do najwy\u017cej warto\u015bci podstawowej.\n",
-            "se": "Under denna runda f\u00e5r motst\u00e5ndarens allierade {0} till sitt h\u00f6gsta basv\u00e4rde.\n",
-            "es": "En este turno, los aliados del oponente modifican su valor b\u00e1sico m\u00e1s alto por {0}.\n"
+            "en": "During this turn, the opponent's allies get -30 to their highest base value.\n",
+            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla -30 siihen arvoon, joka on alkuper\u00e4iselt\u00e4 arvoltaan suurin.\n",
+            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 -30 do najwy\u017cej warto\u015bci podstawowej.\n",
+            "se": "Under denna runda f\u00e5r motst\u00e5ndarens allierade -30 till sitt h\u00f6gsta basv\u00e4rde.\n",
+            "es": "En este turno, los aliados del oponente modifican su valor b\u00e1sico m\u00e1s alto por -30.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2480,11 +2480,11 @@
     "119": {
         "name": "Too Hot to Handle!",
         "desc": {
-            "en": "The opponent's allies get {0} during this turn.\nA random card is discarded from your opponent's hand.\n",
-            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla {0}.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
-            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 {0}.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
-            "se": "Motst\u00e5ndarens allierade f\u00e5r {0} under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
-            "es": "Los aliados del oponente modifican sus valores por {0} este turno.\nTu oponente descarta una carta al azar de su mano.\n"
+            "en": "The opponent's allies get -30 during this turn.\nA random card is discarded from your opponent's hand.\n",
+            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla -30.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
+            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 -30.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
+            "se": "Motst\u00e5ndarens allierade f\u00e5r -30 under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
+            "es": "Los aliados del oponente modifican sus valores por -30 este turno.\nTu oponente descarta una carta al azar de su mano.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2522,11 +2522,11 @@
     "121": {
         "name": "Buzzy Confusion",
         "desc": {
-            "en": "During this turn, the opponent's allies get {0} to all stats.\n",
-            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla {0} kaikkiin arvoihinsa.\n",
-            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 {0} do wszystkich statystyk.\n",
-            "se": "Under denna runda f\u00e5r motst\u00e5ndarens allierade {0} f\u00f6r alla stats.\n",
-            "es": "En este turno, todos los aliados del oponente modifican sus valores por {0}.\n"
+            "en": "During this turn, the opponent's allies get -15 to all stats.\n",
+            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla -15 kaikkiin arvoihinsa.\n",
+            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 -15 do wszystkich statystyk.\n",
+            "se": "Under denna runda f\u00e5r motst\u00e5ndarens allierade -15 f\u00f6r alla stats.\n",
+            "es": "En este turno, todos los aliados del oponente modifican sus valores por -15.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2543,11 +2543,11 @@
     "122": {
         "name": "Helping Hands",
         "desc": {
-            "en": "Your allies get {0} on all stats on this turn.\nYou may not play any action or effect cards on your next turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat {0}.\nEt voi pelata action- tai effect-korttia seuraavalla vuorollasi.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} do wszystkich statystyk w tej turze.\nW nast\u0119pnej turze nie mo\u017cesz zagra\u0107 kartami action lub effect.\n",
-            "se": "Dina allierade f\u00e5r {0} f\u00f6r alla stats denna runda.\nDu f\u00e5r inte spela n\u00e5gra action- eller effektkort under din n\u00e4sta tur.\n",
-            "es": "Tus aliados modifican sus valores por {0} este turno.\nNo podr\u00e1s jugar cartas de acci\u00f3n o de efecto en tu pr\u00f3ximo turno.\n"
+            "en": "Your allies get +30 on all stats on this turn.\nYou may not play any action or effect cards on your next turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +30.\nEt voi pelata action- tai effect-korttia seuraavalla vuorollasi.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 do wszystkich statystyk w tej turze.\nW nast\u0119pnej turze nie mo\u017cesz zagra\u0107 kartami action lub effect.\n",
+            "se": "Dina allierade f\u00e5r +30 f\u00f6r alla stats denna runda.\nDu f\u00e5r inte spela n\u00e5gra action- eller effektkort under din n\u00e4sta tur.\n",
+            "es": "Tus aliados modifican sus valores por +30 este turno.\nNo podr\u00e1s jugar cartas de acci\u00f3n o de efecto en tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2564,11 +2564,11 @@
     "123": {
         "name": "Hopping On!",
         "desc": {
-            "en": "Your allies get {0} on all stats on this turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat {0}.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} do wszystkich statystyk w tej turze.\n",
-            "se": "Dina allierade f\u00e5r {0} f\u00f6r alla stats denna runda.\n",
-            "es": "Tus aliados modifican sus valores por {0} este turno.\n"
+            "en": "Your allies get +15 on all stats on this turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +15.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +15 do wszystkich statystyk w tej turze.\n",
+            "se": "Dina allierade f\u00e5r +15 f\u00f6r alla stats denna runda.\n",
+            "es": "Tus aliados modifican sus valores por +15 este turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2585,11 +2585,11 @@
     "124": {
         "name": "Cold Feet",
         "desc": {
-            "en": "The opponent's allies get {0} on all stats until your next turn.\n",
-            "fi": "Vastustajasi korttien kaikki arvot saavat {0} seuraavaan vuoroosi saakka.\n",
-            "pl": "Do twojej nast\u0119pnej tury sojusznicy przeciwnika otrzymuj\u0105 {0} do wszystkich statystyk.\n",
-            "se": "Din motst\u00e5ndares allierade f\u00e5r {0} f\u00f6r alla stats till din n\u00e4sta tur.\n",
-            "es": "Los aliados del oponente modifican sus valores por {0} hasta tu pr\u00f3ximo turno.\n"
+            "en": "The opponent's allies get -20 on all stats until your next turn.\n",
+            "fi": "Vastustajasi korttien kaikki arvot saavat -20 seuraavaan vuoroosi saakka.\n",
+            "pl": "Do twojej nast\u0119pnej tury sojusznicy przeciwnika otrzymuj\u0105 -20 do wszystkich statystyk.\n",
+            "se": "Din motst\u00e5ndares allierade f\u00e5r -20 f\u00f6r alla stats till din n\u00e4sta tur.\n",
+            "es": "Los aliados del oponente modifican sus valores por -20 hasta tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2627,11 +2627,11 @@
     "126": {
         "name": "Grow Some More",
         "desc": {
-            "en": "Draw {0} random cards.\n",
-            "fi": "Ved\u00e4 {0} sattumanvaraista korttia.\n",
-            "pl": "Dobierz {0} los. kart(y).\n",
-            "se": "Dra {0} slumpm\u00e4ssiga kort.\n",
-            "es": "Roba {0} cartas al azar.\n"
+            "en": "Draw 2 random cards.\n",
+            "fi": "Ved\u00e4 2 sattumanvaraista korttia.\n",
+            "pl": "Dobierz 2 los. kart(y).\n",
+            "se": "Dra 2 slumpm\u00e4ssiga kort.\n",
+            "es": "Roba 2 cartas al azar.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2669,11 +2669,11 @@
     "128": {
         "name": "Aerial Distraction!",
         "desc": {
-            "en": "The opponent's allies get {0} during this turn.\nA random card is discarded from your opponent's hand.\n",
-            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla {0}.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
-            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 {0}.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
-            "se": "Motst\u00e5ndarens allierade f\u00e5r {0} under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
-            "es": "Los aliados del oponente modifican sus valores por {0} este turno.\nTu oponente descarta una carta al azar de su mano.\n"
+            "en": "The opponent's allies get -30 during this turn.\nA random card is discarded from your opponent's hand.\n",
+            "fi": "Vastustajasi character-kortit saavat t\u00e4ll\u00e4 vuorolla -30.\nVastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n sattumanvarainen kortti.\n",
+            "pl": "W tej turze sojusznicy przeciwnika otrzymuj\u0105 -30.\nZ r\u0119ki przeciwnika odrzucana jest jedna losowa karta.\n",
+            "se": "Motst\u00e5ndarens allierade f\u00e5r -30 under denna runda.\nEtt slumpm\u00e4ssigt kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
+            "es": "Los aliados del oponente modifican sus valores por -30 este turno.\nTu oponente descarta una carta al azar de su mano.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2690,11 +2690,11 @@
     "129": {
         "name": "Hello Darkness...",
         "desc": {
-            "en": "Your allied dark faction cards get {0} on all stats until your next turn.\n",
-            "fi": "Pimeyden puolella olevien character-korttiesi arvot saavat {0} seuraavaan vuoroosi saakka.\n",
-            "pl": "Do twojej nast\u0119pnej tury karty frakcji Ciemno\u015bci otrzymuj\u0105 {0} do wszystkich statystyk.\n",
-            "se": "Dina allierade m\u00f6rk grupp-kort f\u00e5r {0} f\u00f6r alla stats till din n\u00e4sta tur.\n",
-            "es": "Tus cartas aliadas de facci\u00f3n oscura modifican sus valores por {0} hasta tu pr\u00f3ximo turno.\n"
+            "en": "Your allied dark faction cards get +40 on all stats until your next turn.\n",
+            "fi": "Pimeyden puolella olevien character-korttiesi arvot saavat +40 seuraavaan vuoroosi saakka.\n",
+            "pl": "Do twojej nast\u0119pnej tury karty frakcji Ciemno\u015bci otrzymuj\u0105 +40 do wszystkich statystyk.\n",
+            "se": "Dina allierade m\u00f6rk grupp-kort f\u00e5r +40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
+            "es": "Tus cartas aliadas de facci\u00f3n oscura modifican sus valores por +40 hasta tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2732,11 +2732,11 @@
     "131": {
         "name": "Let the Light Shine!",
         "desc": {
-            "en": "Your allied light faction cards get {0} to all stats until your next turn.\n",
-            "fi": "Valon puolella olevien character-korttiesi arvot saavat {0} seuraavaan vuoroosi saakka.\n",
-            "pl": "Do twojej nast\u0119pnej tury sojusznicze karty frakcji \u015awiat\u0142o\u015bci otrzymuj\u0105 {0} do wszystkich statystyk.\n",
-            "se": "Dina allierade ljus grupp-kort f\u00e5r {0} f\u00f6r alla stats till din n\u00e4sta tur.\n",
-            "es": "Tus cartas aliadas de facci\u00f3n de luz modifican sus valores por {0} hasta tu pr\u00f3ximo turno.\n"
+            "en": "Your allied light faction cards get +40 to all stats until your next turn.\n",
+            "fi": "Valon puolella olevien character-korttiesi arvot saavat +40 seuraavaan vuoroosi saakka.\n",
+            "pl": "Do twojej nast\u0119pnej tury sojusznicze karty frakcji \u015awiat\u0142o\u015bci otrzymuj\u0105 +40 do wszystkich statystyk.\n",
+            "se": "Dina allierade ljus grupp-kort f\u00e5r +40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
+            "es": "Tus cartas aliadas de facci\u00f3n de luz modifican sus valores por +40 hasta tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2774,11 +2774,11 @@
     "133": {
         "name": "Down to Earth Type",
         "desc": {
-            "en": "Your allies get {0} on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla {0}.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r {0} denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen {0} este turno.\nRoba una carta.\n"
+            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2795,11 +2795,11 @@
     "134": {
         "name": "We All Float",
         "desc": {
-            "en": "Your allies get {0} on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla {0}.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r {0} denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen {0} este turno.\nRoba una carta.\n"
+            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -3362,11 +3362,11 @@
     "161": {
         "name": "Muggy",
         "desc": {
-            "en": "Your allies get {0} on all stats on this turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat {0}.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 {0} do wszystkich statystyk w tej turze.\n",
-            "se": "Dina allierade f\u00e5r {0} f\u00f6r alla stats denna runda.\n",
-            "es": "Tus aliados modifican sus valores por {0} este turno.\n"
+            "en": "Your allies get +25 on all stats on this turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +25.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 +25 do wszystkich statystyk w tej turze.\n",
+            "se": "Dina allierade f\u00e5r +25 f\u00f6r alla stats denna runda.\n",
+            "es": "Tus aliados modifican sus valores por +25 este turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
