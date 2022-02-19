@@ -18,7 +18,14 @@
         "water": "28",
         "earth": "53",
         "round": false,
-        "render": ["Brown Leather Pants", "Brown Shoes", "Executioner's Tunic", "Executioner Mask", "Black Goatee Beard", "Executioner Axe"]
+        "render": [
+            "Brown Leather Pants",
+            "Brown Shoes",
+            "Executioner's Tunic",
+            "Executioner Mask",
+            "Black Goatee Beard",
+            "Executioner Axe"
+        ]
     },
     "2": {
         "name": "Pirate Sailor",
@@ -39,7 +46,18 @@
         "water": "47",
         "earth": "54",
         "round": false,
-        "render": ["Pirate Sailor Pants", "Punk Shoes", "Pirate Sailor Shirt", "Pirate Sailor Bandana", "Artemis Hair", "Brown Contact Lenses", "Pirate Make-Up", "Pirate Earring", "Stubbed Beard", "Boarding Axe"]
+        "render": [
+            "Pirate Sailor Pants",
+            "Punk Shoes",
+            "Pirate Sailor Shirt",
+            "Pirate Sailor Bandana",
+            "Artemis Hair",
+            "Brown Contact Lenses",
+            "Pirate Make-Up",
+            "Pirate Earring",
+            "Stubbed Beard",
+            "Boarding Axe"
+        ]
     },
     "3": {
         "name": "Coastal Maiden",
@@ -60,7 +78,15 @@
         "water": "35",
         "earth": "38",
         "round": false,
-        "render": ["Greek Maiden Dress", "Spartan Sandals", "Pacifist Wreath", "Black Band Hair", "Purple Contact Lenses", "Green Earring", "Leprechaun's Walking Stick"]
+        "render": [
+            "Greek Maiden Dress",
+            "Spartan Sandals",
+            "Pacifist Wreath",
+            "Black Band Hair",
+            "Purple Contact Lenses",
+            "Green Earring",
+            "Leprechaun's Walking Stick"
+        ]
     },
     "4": {
         "name": "Legionary Soldier",
@@ -81,7 +107,14 @@
         "water": "53",
         "earth": "32",
         "round": false,
-        "render": ["Legionary Sandals", "Legionary Chest Armor", "Imperial Gallic Helmet", "Brown Contact Lenses", "Pilum Spear", "Scutum Shield"]
+        "render": [
+            "Legionary Sandals",
+            "Legionary Chest Armor",
+            "Imperial Gallic Helmet",
+            "Brown Contact Lenses",
+            "Pilum Spear",
+            "Scutum Shield"
+        ]
     },
     "5": {
         "name": "Mister Newbie",
@@ -102,7 +135,10 @@
         "water": "60",
         "earth": "46",
         "round": false,
-        "render": ["Blue Jumpsuit", "Blue Jumpsuit Cap"]
+        "render": [
+            "Blue Jumpsuit",
+            "Blue Jumpsuit Cap"
+        ]
     },
     "6": {
         "name": "Miss Newbie",
@@ -123,7 +159,10 @@
         "water": "73",
         "earth": "31",
         "round": false,
-        "render": ["Pink Jumpsuit", "Pink Jumpsuit Cap"]
+        "render": [
+            "Pink Jumpsuit",
+            "Pink Jumpsuit Cap"
+        ]
     },
     "7": {
         "name": "Adventurer",
@@ -144,7 +183,16 @@
         "water": "48",
         "earth": "27",
         "round": false,
-        "render": ["Adventurer Pants", "Adventurer Shoes", "Adventurer Shirt", "Adventurer Hat", "Exotic Hair", "Blue Contact Lenses", "Light Glasses", "Shovel"]
+        "render": [
+            "Adventurer Pants",
+            "Adventurer Shoes",
+            "Adventurer Shirt",
+            "Adventurer Hat",
+            "Exotic Hair",
+            "Blue Contact Lenses",
+            "Light Glasses",
+            "Shovel"
+        ]
     },
     "8": {
         "name": "Maiko",
@@ -165,7 +213,12 @@
         "water": "28",
         "earth": "50",
         "round": false,
-        "render": ["Red Geisha Dress", "Red Geisha Shoes", "Geisha Hair", "Purple Contact Lenses"]
+        "render": [
+            "Red Geisha Dress",
+            "Red Geisha Shoes",
+            "Geisha Hair",
+            "Purple Contact Lenses"
+        ]
     },
     "9": {
         "name": "Peasant",
@@ -186,7 +239,14 @@
         "water": "33",
         "earth": "35",
         "round": false,
-        "render": ["Footwraps", "Peasant Rags", "Oldtimer hair", "Black Beard", "Fish Club", "Iron Reinforced Shield"]
+        "render": [
+            "Footwraps",
+            "Peasant Rags",
+            "Oldtimer hair",
+            "Black Beard",
+            "Fish Club",
+            "Iron Reinforced Shield"
+        ]
     },
     "10": {
         "name": "Squire",
@@ -207,7 +267,16 @@
         "water": "25",
         "earth": "47",
         "round": false,
-        "render": ["Buccaneer Pants", "Leprechaun's Shoes", "Decorative Backpack", "Ring Mail", "Gjermundbu Helmet", "Slicked Brown Hair", "Caribbean Beard", "Pilum Spear"]
+        "render": [
+            "Buccaneer Pants",
+            "Leprechaun's Shoes",
+            "Decorative Backpack",
+            "Ring Mail",
+            "Gjermundbu Helmet",
+            "Slicked Brown Hair",
+            "Caribbean Beard",
+            "Pilum Spear"
+        ]
     },
     "11": {
         "name": "Senator",
@@ -228,7 +297,13 @@
         "water": "69",
         "earth": "42",
         "round": false,
-        "render": ["Senator's Toga", "Tartan Shoes", "Archy Grey Hair", "Santa's Sideburns", "Bread Knife"]
+        "render": [
+            "Senator's Toga",
+            "Tartan Shoes",
+            "Archy Grey Hair",
+            "Santa's Sideburns",
+            "Bread Knife"
+        ]
     },
     "12": {
         "name": "Medieval Lord",
@@ -249,7 +324,16 @@
         "water": "70",
         "earth": "45",
         "round": false,
-        "render": ["Lord's Pants", "Brown Shoes", "Lord's Tunic", "Bushy Antique Hair", "Seadog Beard", "Short Sword", "Iron Reinforced Shield", "Spartan Cape"]
+        "render": [
+            "Lord's Pants",
+            "Brown Shoes",
+            "Lord's Tunic",
+            "Bushy Antique Hair",
+            "Seadog Beard",
+            "Short Sword",
+            "Iron Reinforced Shield",
+            "Spartan Cape"
+        ]
     },
     "13": {
         "name": "Legionary General",
@@ -270,7 +354,15 @@
         "water": "73",
         "earth": "49",
         "round": false,
-        "render": ["Legionary Sandals", "Officer's Legionary Armor", "General's Legionary Helmet", "Turquoise Contact Lenses", "Gladius Sword", "Bronze Reinforced Shield", "Shogun Cape"]
+        "render": [
+            "Legionary Sandals",
+            "Officer's Legionary Armor",
+            "General's Legionary Helmet",
+            "Turquoise Contact Lenses",
+            "Gladius Sword",
+            "Bronze Reinforced Shield",
+            "Shogun Cape"
+        ]
     },
     "14": {
         "name": "Breck the Smithy",
@@ -291,7 +383,9 @@
         "water": "92",
         "earth": "61",
         "round": false,
-        "render": ["MiningPickaxeUpgradeStation"]
+        "render": [
+            "MiningPickaxeUpgradeStation"
+        ]
     },
     "15": {
         "name": "Poor Orc",
@@ -312,7 +406,15 @@
         "water": "46",
         "earth": "74",
         "round": false,
-        "render": ["Bankruptcy Barrel", "Ucut Long Black Hair", "Red Contact Lenses", "Orc Ears", "Orc Teeth", "Goblin Ring", "Fish Club"]
+        "render": [
+            "Bankruptcy Barrel",
+            "Ucut Long Black Hair",
+            "Red Contact Lenses",
+            "Orc Ears",
+            "Orc Teeth",
+            "Goblin Ring",
+            "Fish Club"
+        ]
     },
     "16": {
         "name": "Cabin Boy",
@@ -333,7 +435,15 @@
         "water": "51",
         "earth": "76",
         "round": false,
-        "render": ["Gnome Shorts", "Beach Slippers", "Blue Tank Top", "Light Blue Headscarf", "Archy Red", "Deep Dweller Beard", "Curved Viking Axe"]
+        "render": [
+            "Gnome Shorts",
+            "Beach Slippers",
+            "Blue Tank Top",
+            "Light Blue Headscarf",
+            "Archy Red",
+            "Deep Dweller Beard",
+            "Curved Viking Axe"
+        ]
     },
     "17": {
         "name": "Ancient Hero",
@@ -354,7 +464,13 @@
         "water": "57",
         "earth": "79",
         "round": false,
-        "render": ["Legionary Sandals", "Nemean Armor", "Nemean Lion Helm", "Beard", "Club of the Hydra"]
+        "render": [
+            "Legionary Sandals",
+            "Nemean Armor",
+            "Nemean Lion Helm",
+            "Beard",
+            "Club of the Hydra"
+        ]
     },
     "18": {
         "name": "Satyr the Shark",
@@ -375,7 +491,9 @@
         "water": "61",
         "earth": "105",
         "round": false,
-        "render": ["CardGame"]
+        "render": [
+            "CardGame"
+        ]
     },
     "19": {
         "name": "Black Widow",
@@ -396,7 +514,15 @@
         "water": "33",
         "earth": "71",
         "round": false,
-        "render": ["Countess Dress", "Classy Black Shoes", "Darkness Clan Crown", "Black n Red Rock Hair", "Purple Contact Lenses", "Elf Ears", "Bread Knife"]
+        "render": [
+            "Countess Dress",
+            "Classy Black Shoes",
+            "Darkness Clan Crown",
+            "Black n Red Rock Hair",
+            "Purple Contact Lenses",
+            "Elf Ears",
+            "Bread Knife"
+        ]
     },
     "20": {
         "name": "Viking Raider",
@@ -417,7 +543,16 @@
         "water": "41",
         "earth": "75",
         "round": false,
-        "render": ["Viking Leather Shoes", "Viking Leather Armor", "Ucut Long Blonde Hair", "Blue Contact Lenses", "Punk Earring", "Candy Teeth", "Stubbed Beard", "Curved Viking Axe"]
+        "render": [
+            "Viking Leather Shoes",
+            "Viking Leather Armor",
+            "Ucut Long Blonde Hair",
+            "Blue Contact Lenses",
+            "Punk Earring",
+            "Candy Teeth",
+            "Stubbed Beard",
+            "Curved Viking Axe"
+        ]
     },
     "21": {
         "name": "Berserker",
@@ -438,7 +573,13 @@
         "water": "49",
         "earth": "79",
         "round": false,
-        "render": ["Berserker Pants", "Berserker Shoes", "Darkness Clan Necklace", "Berserker Cape", "Darkness Clan Facepaint"]
+        "render": [
+            "Berserker Pants",
+            "Berserker Shoes",
+            "Darkness Clan Necklace",
+            "Berserker Cape",
+            "Darkness Clan Facepaint"
+        ]
     },
     "22": {
         "name": "Viking Warlord",
@@ -459,7 +600,19 @@
         "water": "54",
         "earth": "80",
         "round": false,
-        "render": ["Batdude Pants", "Viking Warlord Shoes", "Viking Warlord Coat", "Viking Warlord Helmet", "Brown Band Hair", "Darkness Clan Facepaint", "Green Contact Lenses", "Pirate Earring", "Scar Mask", "Throwable Axe", "Iron Reinforced Shield"]
+        "render": [
+            "Batdude Pants",
+            "Viking Warlord Shoes",
+            "Viking Warlord Coat",
+            "Viking Warlord Helmet",
+            "Brown Band Hair",
+            "Darkness Clan Facepaint",
+            "Green Contact Lenses",
+            "Pirate Earring",
+            "Scar Mask",
+            "Throwable Axe",
+            "Iron Reinforced Shield"
+        ]
     },
     "23": {
         "name": "World Bot",
@@ -480,7 +633,9 @@
         "water": "91",
         "earth": "75",
         "round": false,
-        "render": ["WOTWBot"]
+        "render": [
+            "WOTWBot"
+        ]
     },
     "24": {
         "name": "Ninja Prospect",
@@ -501,7 +656,16 @@
         "water": "29",
         "earth": "68",
         "round": false,
-        "render": ["Black Ninja Pants", "Berserker Shoes", "Katana scabbard", "Black Ninja Shirt", "Jingasa Helmet", "Countess Hair", "Wood Elf Face Mask", "Sai"]
+        "render": [
+            "Black Ninja Pants",
+            "Berserker Shoes",
+            "Katana scabbard",
+            "Black Ninja Shirt",
+            "Jingasa Helmet",
+            "Countess Hair",
+            "Wood Elf Face Mask",
+            "Sai"
+        ]
     },
     "25": {
         "name": "Ninja of Stealth",
@@ -522,7 +686,15 @@
         "water": "88",
         "earth": "38",
         "round": false,
-        "render": ["Blue Ninja Pants", "Red Ninja Shoes", "Blue Ninja Shirt", "Blue Ninja Hood", "Green Contact Lenses", "Blue Ninja Gloves", "Naginata"]
+        "render": [
+            "Blue Ninja Pants",
+            "Red Ninja Shoes",
+            "Blue Ninja Shirt",
+            "Blue Ninja Hood",
+            "Green Contact Lenses",
+            "Blue Ninja Gloves",
+            "Naginata"
+        ]
     },
     "26": {
         "name": "Ninja of Blood",
@@ -543,7 +715,14 @@
         "water": "90",
         "earth": "38",
         "round": false,
-        "render": ["Black Ninja Pants", "Grey Ninja Shoes", "Katana scabbard", "Black Ninja Shirt", "Red Ninja Mask", "Blue Contact Lenses"]
+        "render": [
+            "Black Ninja Pants",
+            "Grey Ninja Shoes",
+            "Katana scabbard",
+            "Black Ninja Shirt",
+            "Red Ninja Mask",
+            "Blue Contact Lenses"
+        ]
     },
     "27": {
         "name": "Ninja of Speed",
@@ -564,7 +743,16 @@
         "water": "90",
         "earth": "40",
         "round": false,
-        "render": ["Grey Ninja Pants", "Purple Ninja Shoes", "Parachute Backbag", "Purple Ninja Shirt", "Purple Ninja Hood", "Green Contact Lenses", "Purple Ninja Gloves", "Ninjato Sword"]
+        "render": [
+            "Grey Ninja Pants",
+            "Purple Ninja Shoes",
+            "Parachute Backbag",
+            "Purple Ninja Shirt",
+            "Purple Ninja Hood",
+            "Green Contact Lenses",
+            "Purple Ninja Gloves",
+            "Ninjato Sword"
+        ]
     },
     "28": {
         "name": "Master Ninja",
@@ -585,7 +773,16 @@
         "water": "101",
         "earth": "45",
         "round": false,
-        "render": ["Black Fullsuit", "Black Ninja Pants", "Chaos Shoes", "Quickdraw Blades of Nether", "Red Ninja Shirt", "Black Ninja Hood", "Excavator Glasses", "Red Ninja Gloves"]
+        "render": [
+            "Shadowsuit",
+            "Black Ninja Pants",
+            "Chaos Shoes",
+            "Quickdraw Blades of Nether",
+            "Red Ninja Shirt",
+            "Black Ninja Hood",
+            "Excavator Glasses",
+            "Red Ninja Gloves"
+        ]
     },
     "29": {
         "name": "Samurai Warrior",
@@ -606,7 +803,16 @@
         "water": "89",
         "earth": "58",
         "round": false,
-        "render": ["Samurai Leg Armor", "Samurai Shoes", "Katana scabbard", "Red Samurai Armor", "Red Kabuto", "Green Contact Lenses", "Red Samurai Mask", "Katana"]
+        "render": [
+            "Samurai Leg Armor",
+            "Samurai Shoes",
+            "Katana scabbard",
+            "Red Samurai Armor",
+            "Red Kabuto",
+            "Green Contact Lenses",
+            "Red Samurai Mask",
+            "Katana"
+        ]
     },
     "30": {
         "name": "Rodster",
@@ -627,7 +833,14 @@
         "water": "89",
         "earth": "23",
         "round": false,
-        "render": ["Rodster Sandals", "Rodster Toga", "Wanderer Hat", "Black Beard", "Rodster Net", "Rodster Fishbasket"]
+        "render": [
+            "Rodster Sandals",
+            "Rodster Toga",
+            "Wanderer Hat",
+            "Black Beard",
+            "Rodster Net",
+            "Rodster Fishbasket"
+        ]
     },
     "31": {
         "name": "Evil Professor",
@@ -646,9 +859,11 @@
         "fire": "108",
         "air": "83",
         "water": "93",
-        "earth": "79",
+        "earth": "66",
         "round": false,
-        "render": ["LaboratoryBossProjectileA"]
+        "render": [
+            "LaboratoryBossProjectileA"
+        ]
     },
     "32": {
         "name": "Beach Impostor",
@@ -669,7 +884,17 @@
         "water": "79",
         "earth": "69",
         "round": false,
-        "render": ["Lifeguard's Shorts", "Red Flippers", "Gold Chain", "Fake Beach Belly", "Puffy Blue", "Sunglasses", "Liar's Nose", "Dark Ifrit Bracelets", "Lifeguard's Rescue Can"]
+        "render": [
+            "Lifeguard's Shorts",
+            "Red Flippers",
+            "Gold Chain",
+            "Fake Beach Belly",
+            "Puffy Blue",
+            "Sunglasses",
+            "Liar's Nose",
+            "Dark Ifrit Bracelets",
+            "Lifeguard's Rescue Can"
+        ]
     },
     "33": {
         "name": "Tribal Orc",
@@ -690,7 +915,16 @@
         "water": "84",
         "earth": "73",
         "round": false,
-        "render": ["Tribal Orc Skirt", "Tribal Orc Shoes", "Fake Muscles", "Tribal Orc Hair", "Red Contact Lenses", "Orc Ears", "Orc Teeth", "Tribal Orc Club"]
+        "render": [
+            "Tribal Orc Skirt",
+            "Tribal Orc Shoes",
+            "Fake Muscles",
+            "Tribal Orc Hair",
+            "Red Contact Lenses",
+            "Orc Ears",
+            "Orc Teeth",
+            "Tribal Orc Club"
+        ]
     },
     "34": {
         "name": "Buccaneer",
@@ -711,7 +945,15 @@
         "water": "54",
         "earth": "67",
         "round": false,
-        "render": ["Buccaneer Pants", "Thor's Shoes", "Buccaneer Shirt", "Blue Privateer Hat", "Blue Hair", "Ruby Earring", "Flintlock Pistol"]
+        "render": [
+            "Buccaneer Pants",
+            "Thor's Shoes",
+            "Buccaneer Shirt",
+            "Blue Privateer Hat",
+            "Blue Hair",
+            "Ruby Earring",
+            "Flintlock Pistol"
+        ]
     },
     "35": {
         "name": "Norse Soothsayer",
@@ -732,7 +974,11 @@
         "water": "103",
         "earth": "90",
         "round": false,
-        "render": ["Viking Seer Robe", "Brown Goatee", "Seer's Staff"]
+        "render": [
+            "Viking Seer Robe",
+            "Brown Goatee",
+            "Seer's Staff"
+        ]
     },
     "36": {
         "name": "Privateer",
@@ -753,7 +999,17 @@
         "water": "34",
         "earth": "54",
         "round": false,
-        "render": ["Deep Dweller Pants", "Berserker Shoes", "Witch Hunter Coat", "Blue Privateer Hat", "Pirate Eyepatch", "Green Earring", "Candy Teeth", "Beard", "Cleaver Sword"]
+        "render": [
+            "Deep Dweller Pants",
+            "Berserker Shoes",
+            "Witch Hunter Coat",
+            "Blue Privateer Hat",
+            "Pirate Eyepatch",
+            "Green Earring",
+            "Candy Teeth",
+            "Beard",
+            "Cleaver Sword"
+        ]
     },
     "37": {
         "name": "Mystery Dude",
@@ -774,7 +1030,12 @@
         "water": "39",
         "earth": "68",
         "round": false,
-        "render": ["Mystery Dude Pants", "Mystery Dude Shoes", "Mystery Dude Shirt", "Mystery Dude Cape"]
+        "render": [
+            "Mystery Dude Pants",
+            "Mystery Dude Shoes",
+            "Mystery Dude Shirt",
+            "Mystery Dude Cape"
+        ]
     },
     "38": {
         "name": "Martial Artist",
@@ -795,7 +1056,16 @@
         "water": "39",
         "earth": "52",
         "round": false,
-        "render": ["Pirate Captain's Pants", "Viking Warlord Shoes", "Fake Muscles", "Red Silk Cap", "Darkness Clan Facepaint", "Brown Sideburns", "Black Wristband", "Dual Chui Maces"]
+        "render": [
+            "Pirate Captain's Pants",
+            "Viking Warlord Shoes",
+            "Fake Muscles",
+            "Red Silk Cap",
+            "Darkness Clan Facepaint",
+            "Brown Sideburns",
+            "Black Wristband",
+            "Dual Chui Maces"
+        ]
     },
     "39": {
         "name": "Washed Up Pirate",
@@ -816,7 +1086,14 @@
         "water": "42",
         "earth": "61",
         "round": false,
-        "render": ["Caribbean Pants", "Classy Black Shoes", "Caribbean Shirt", "Pirate's Dreadlocks", "Pirate Make-Up", "Caribbean Beard"]
+        "render": [
+            "Caribbean Pants",
+            "Classy Black Shoes",
+            "Caribbean Shirt",
+            "Pirate's Dreadlocks",
+            "Pirate Make-Up",
+            "Caribbean Beard"
+        ]
     },
     "40": {
         "name": "Faun",
@@ -837,7 +1114,15 @@
         "water": "80",
         "earth": "65",
         "round": false,
-        "render": ["Faun Legs", "Faun Necklace", "Faun Horns", "Dead Rocker Hair", "Weary contact lenses", "Faun Ears", "Faun Tail"]
+        "render": [
+            "Faun Legs",
+            "Faun Necklace",
+            "Faun Horns",
+            "Dead Rocker Hair",
+            "Weary contact lenses",
+            "Faun Ears",
+            "Faun Tail"
+        ]
     },
     "41": {
         "name": "Blood Lord",
@@ -858,7 +1143,14 @@
         "water": "40",
         "earth": "69",
         "round": false,
-        "render": ["Blood Lord Pants", "Blood Lord Shoes", "Blood Lord Armor", "Blood Lord Helmet", "Butcher Sword", "Chaos Shield"]
+        "render": [
+            "Blood Lord Pants",
+            "Blood Lord Shoes",
+            "Blood Lord Armor",
+            "Blood Lord Helmet",
+            "Butcher Sword",
+            "Chaos Shield"
+        ]
     },
     "42": {
         "name": "Minotaur Wannabe",
@@ -879,7 +1171,16 @@
         "water": "43",
         "earth": "28",
         "round": false,
-        "render": ["Faun Legs", "Yellow Utility Belt", "Fake Muscles", "Mask of the Ox", "Snake Contact Lenses", "Dark Ifrit Bracelets", "Double Headed Axe", "Faun Tail"]
+        "render": [
+            "Faun Legs",
+            "Yellow Utility Belt",
+            "Fake Muscles",
+            "Mask of the Ox",
+            "Snake Contact Lenses",
+            "Dark Ifrit Bracelets",
+            "Double Headed Axe",
+            "Faun Tail"
+        ]
     },
     "43": {
         "name": "Ogre Champion",
@@ -900,7 +1201,19 @@
         "water": "62",
         "earth": "46",
         "round": false,
-        "render": ["Blackbeard's Pants", "Blood Lord Shoes", "Thor's Armor", "Tormentor Horns", "Oldtimer hair", "Red Contact Lenses", "Pirate Make-Up", "Vampire Fangs", "Black Viking Beard", "Cleaver Sword", "Bronze Reinforced Shield"]
+        "render": [
+            "Blackbeard's Pants",
+            "Blood Lord Shoes",
+            "Thor's Armor",
+            "Tormentor Horns",
+            "Oldtimer hair",
+            "Red Contact Lenses",
+            "Pirate Make-Up",
+            "Vampire Fangs",
+            "Black Viking Beard",
+            "Cleaver Sword",
+            "Bronze Reinforced Shield"
+        ]
     },
     "44": {
         "name": "Plague Doc",
@@ -921,7 +1234,15 @@
         "water": "28",
         "earth": "48",
         "round": false,
-        "render": ["Blood Lord Shoes", "Faun Necklace", "Gothic Coat", "Sheriff Hat", "Black Afro Hair", "Plague Doc Mask", "Spirit Claw"]
+        "render": [
+            "Blood Lord Shoes",
+            "Faun Necklace",
+            "Gothic Coat",
+            "Sheriff Hat",
+            "Black Afro Hair",
+            "Plague Doc Mask",
+            "Spirit Claw"
+        ]
     },
     "45": {
         "name": "Hooked Pirate",
@@ -942,7 +1263,15 @@
         "water": "44",
         "earth": "31",
         "round": false,
-        "render": ["Peg Leg Pants", "Miner Backpack", "Hooked Pirate's Coat", "Pirate Captain's Hat", "Doll Hair", "Green Contact Lenses", "Saint Patrick's Day Beard"]
+        "render": [
+            "Peg Leg Pants",
+            "Miner Backpack",
+            "Hooked Pirate's Coat",
+            "Pirate Captain's Hat",
+            "Doll Hair",
+            "Green Contact Lenses",
+            "Saint Patrick's Day Beard"
+        ]
     },
     "46": {
         "name": "Member of Darkness",
@@ -963,7 +1292,17 @@
         "water": "43",
         "earth": "69",
         "round": false,
-        "render": ["Chaos Pants", "Nether Shoes", "Nether Armor", "Darkness Clan Crown", "Auburn Afro", "Darkness Clan Facepaint", "Purple Contact Lenses", "Darkness Clan Shield", "Tormentor Tail"]
+        "render": [
+            "Chaos Pants",
+            "Nether Shoes",
+            "Nether Armor",
+            "Darkness Clan Crown",
+            "Auburn Afro",
+            "Darkness Clan Facepaint",
+            "Purple Contact Lenses",
+            "Darkness Clan Shield",
+            "Tormentor Tail"
+        ]
     },
     "47": {
         "name": "Woody Captain",
@@ -984,7 +1323,16 @@
         "water": "48",
         "earth": "35",
         "round": false,
-        "render": ["Woody Two-Legs", "Lord's Tunic", "Purple Privateer Hat", "Pirate Earring", "Candy Teeth", "Long Beard", "Liar's Nose", "Pirate Captain's Cutlass"]
+        "render": [
+            "Woody Two-Legs",
+            "Lord's Tunic",
+            "Purple Privateer Hat",
+            "Pirate Earring",
+            "Candy Teeth",
+            "Long Beard",
+            "Liar's Nose",
+            "Pirate Captain's Cutlass"
+        ]
     },
     "48": {
         "name": "DragonBj\u00f6rn",
@@ -1005,7 +1353,17 @@
         "water": "23",
         "earth": "32",
         "round": false,
-        "render": ["Brown Leather Pants", "Strapped Viking Shoes", "Viking Chainmail", "DragonBj\u00f6rn Helm", "Exotic Hair", "Brown Contact Lenses", "Brown Viking Beard", "Axes of Winter", "Blue Cape"]
+        "render": [
+            "Brown Leather Pants",
+            "Strapped Viking Shoes",
+            "Viking Chainmail",
+            "DragonBj\u00f6rn Helm",
+            "Exotic Hair",
+            "Brown Contact Lenses",
+            "Brown Viking Beard",
+            "Axes of Winter",
+            "Blue Cape"
+        ]
     },
     "49": {
         "name": "Shogun",
@@ -1026,7 +1384,17 @@
         "water": "80",
         "earth": "85",
         "round": false,
-        "render": ["Shogun Leg Armor", "Shogun Shoes", "Shogun Armor", "Ronin Hair", "Red Contact Lenses", "Eyepatch", "Black Goatee Beard", "Shogun Katana", "Shogun Cape"]
+        "render": [
+            "Shogun Leg Armor",
+            "Shogun Shoes",
+            "Shogun Armor",
+            "Ronin Hair",
+            "Red Contact Lenses",
+            "Eyepatch",
+            "Black Goatee Beard",
+            "Shogun Katana",
+            "Shogun Cape"
+        ]
     },
     "50": {
         "name": "Warlock",
@@ -1047,7 +1415,13 @@
         "water": "79",
         "earth": "49",
         "round": false,
-        "render": ["Warlock Robes", "Adventurer Shoes", "Warlock Hood", "Vampire Fangs", "Soul Cleaver"]
+        "render": [
+            "Warlock Robes",
+            "Adventurer Shoes",
+            "Warlock Hood",
+            "Vampire Fangs",
+            "Soul Cleaver"
+        ]
     },
     "51": {
         "name": "Chaos Overlord",
@@ -1068,7 +1442,13 @@
         "water": "53",
         "earth": "45",
         "round": false,
-        "render": ["Chaos Pants", "Chaos Shoes", "Chaos Armor", "Chaos Helmet", "Chaos Sword"]
+        "render": [
+            "Chaos Pants",
+            "Chaos Shoes",
+            "Chaos Armor",
+            "Chaos Helmet",
+            "Chaos Sword"
+        ]
     },
     "52": {
         "name": "Blackbeard",
@@ -1089,7 +1469,16 @@
         "water": "95",
         "earth": "43",
         "round": false,
-        "render": ["Blackbeard's Pants", "Blackbeard's Shoes", "Blackbeard's Coat", "Blackbeard's Hat", "Pirate Make-Up", "Pirate Earring", "Blackbeard's Beard", "Blackbeard's Falchion"]
+        "render": [
+            "Blackbeard's Pants",
+            "Blackbeard's Shoes",
+            "Blackbeard's Coat",
+            "Blackbeard's Hat",
+            "Pirate Make-Up",
+            "Pirate Earring",
+            "Blackbeard's Beard",
+            "Blackbeard's Falchion"
+        ]
     },
     "53": {
         "name": "Punchpool",
@@ -1110,7 +1499,13 @@
         "water": "75",
         "earth": "54",
         "round": false,
-        "render": ["Punchpool Leg Armor", "Punchpool Shoes", "Punchpool Chest Armor", "Punchpool Mask", "Punchpool Gloves"]
+        "render": [
+            "Punchpool Leg Armor",
+            "Punchpool Shoes",
+            "Punchpool Chest Armor",
+            "Punchpool Mask",
+            "Punchpool Gloves"
+        ]
     },
     "54": {
         "name": "Night Chick",
@@ -1131,7 +1526,14 @@
         "water": "55",
         "earth": "78",
         "round": false,
-        "render": ["Night Chick Pants", "Night Chick Boots", "Night Chick Top", "Night Chick Hair", "Night Chick Domino Mask", "Night Chick Wrist Guards"]
+        "render": [
+            "Night Chick Pants",
+            "Night Chick Boots",
+            "Night Chick Top",
+            "Night Chick Hair",
+            "Night Chick Domino Mask",
+            "Night Chick Wrist Guards"
+        ]
     },
     "55": {
         "name": "Gloomy Clubber",
@@ -1152,7 +1554,14 @@
         "water": "85",
         "earth": "78",
         "round": false,
-        "render": ["Gloomy Clubber Pants", "Gloomy Clubber Shoes", "Gloomy Clubber Stick Sheaths", "Gloomy Clubber Shirt", "Gloomy Clubber Mask", "Gloomy Clubber Dual Sticks"]
+        "render": [
+            "Gloomy Clubber Pants",
+            "Gloomy Clubber Shoes",
+            "Gloomy Clubber Stick Sheaths",
+            "Gloomy Clubber Shirt",
+            "Gloomy Clubber Mask",
+            "Gloomy Clubber Dual Sticks"
+        ]
     },
     "56": {
         "name": "Blackbird",
@@ -1173,7 +1582,13 @@
         "water": "86",
         "earth": "79",
         "round": false,
-        "render": ["Blackbird Pants", "Blackbird Shoes", "Blackbird Shirt", "Blackbird Mask", "Blackbird Cape"]
+        "render": [
+            "Blackbird Pants",
+            "Blackbird Shoes",
+            "Blackbird Shirt",
+            "Blackbird Mask",
+            "Blackbird Cape"
+        ]
     },
     "57": {
         "name": "Retributor",
@@ -1194,7 +1609,14 @@
         "water": "40",
         "earth": "82",
         "round": false,
-        "render": ["Retributor Pants", "Retributor Shirt", "Retributor Mask", "Retributor Gloves", "Retributor Jump Pack", "Retributor Tail"]
+        "render": [
+            "Retributor Pants",
+            "Retributor Shirt",
+            "Retributor Mask",
+            "Retributor Gloves",
+            "Retributor Jump Pack",
+            "Retributor Tail"
+        ]
     },
     "58": {
         "name": "Kettlehead",
@@ -1215,7 +1637,14 @@
         "water": "50",
         "earth": "62",
         "round": false,
-        "render": ["Kettlehead Pants", "Kettlehead Shoes", "Kettlehead Shirt", "Kettlehead Mask", "Kettlehead Gloves", "Kettlehead Cape"]
+        "render": [
+            "Kettlehead Pants",
+            "Kettlehead Shoes",
+            "Kettlehead Shirt",
+            "Kettlehead Mask",
+            "Kettlehead Gloves",
+            "Kettlehead Cape"
+        ]
     },
     "59": {
         "name": "Green Bouncer",
@@ -1236,7 +1665,14 @@
         "water": "52",
         "earth": "61",
         "round": false,
-        "render": ["Green Bouncer Pants", "Green Bouncer Shoes", "Green Bouncer Shirt", "Green Bouncer Hair", "Green Bouncer Mask", "Green Bouncer Shield"]
+        "render": [
+            "Green Bouncer Pants",
+            "Green Bouncer Shoes",
+            "Green Bouncer Shirt",
+            "Green Bouncer Hair",
+            "Green Bouncer Mask",
+            "Green Bouncer Shield"
+        ]
     },
     "60": {
         "name": "Captain Grit",
@@ -1257,7 +1693,14 @@
         "water": "58",
         "earth": "65",
         "round": false,
-        "render": ["Captain Grit Pants", "Captain Grit Shoes", "Captain Grit Shirt", "Captain Grit Mask", "Captain Grit Gloves", "Captain Grit Jump Pack"]
+        "render": [
+            "Captain Grit Pants",
+            "Captain Grit Shoes",
+            "Captain Grit Shirt",
+            "Captain Grit Mask",
+            "Captain Grit Gloves",
+            "Captain Grit Jump Pack"
+        ]
     },
     "61": {
         "name": "Sir Laser",
@@ -1278,7 +1721,13 @@
         "water": "78",
         "earth": "57",
         "round": false,
-        "render": ["Sir Laser Pants", "Sir Laser Shoes", "Sir Laser Shirt", "Sir Laser Helmet", "Sir Laser Gloves"]
+        "render": [
+            "Sir Laser Pants",
+            "Sir Laser Shoes",
+            "Sir Laser Shirt",
+            "Sir Laser Helmet",
+            "Sir Laser Gloves"
+        ]
     },
     "62": {
         "name": "Tridentist",
@@ -1299,7 +1748,15 @@
         "water": "74",
         "earth": "74",
         "round": false,
-        "render": ["Tridentist Pants", "Tridentist Shoes", "Tridentist Shirt", "Tridentist Mask", "Tridentist Teeth", "Tridentist Gloves", "Tridentist Lance"]
+        "render": [
+            "Tridentist Pants",
+            "Tridentist Shoes",
+            "Tridentist Shirt",
+            "Tridentist Mask",
+            "Tridentist Teeth",
+            "Tridentist Gloves",
+            "Tridentist Lance"
+        ]
     },
     "63": {
         "name": "DaBomba",
@@ -1320,7 +1777,16 @@
         "water": "74",
         "earth": "64",
         "round": false,
-        "render": ["DaBomba Pants", "DaBomba Shoes", "DaBomba Shirt", "DaBomba Mask", "DaBomba Moustache", "DaBomba Gloves", "DaBomba Dynamite", "DaBomba Cape"]
+        "render": [
+            "DaBomba Pants",
+            "DaBomba Shoes",
+            "DaBomba Shirt",
+            "DaBomba Mask",
+            "DaBomba Moustache",
+            "DaBomba Gloves",
+            "DaBomba Dynamite",
+            "DaBomba Cape"
+        ]
     },
     "64": {
         "name": "Sup-a-Fly",
@@ -1341,7 +1807,15 @@
         "water": "89",
         "earth": "57",
         "round": false,
-        "render": ["Sup-a-Fly Pants", "Sup-a-Fly Shoes", "Sup-a-Fly Shirt", "Sup-a-Fly Mask", "Sup-a-Fly Hair", "Sup-a-Fly swatter", "Sup-a-Fly Wings"]
+        "render": [
+            "Sup-a-Fly Pants",
+            "Sup-a-Fly Shoes",
+            "Sup-a-Fly Shirt",
+            "Sup-a-Fly Mask",
+            "Sup-a-Fly Hair",
+            "Sup-a-Fly swatter",
+            "Sup-a-Fly Wings"
+        ]
     },
     "65": {
         "name": "Thor",
@@ -1362,7 +1836,15 @@
         "water": "102",
         "earth": "67",
         "round": false,
-        "render": ["Black Leather Pants", "Thor's Shoes", "Thor's Armor", "Thor's Helmet", "Blue Contact Lenses", "Beard", "Thor's Hammer"]
+        "render": [
+            "Black Leather Pants",
+            "Thor's Shoes",
+            "Thor's Armor",
+            "Thor's Helmet",
+            "Blue Contact Lenses",
+            "Beard",
+            "Thor's Hammer"
+        ]
     },
     "66": {
         "name": "Tiger Boy",
@@ -1383,7 +1865,19 @@
         "water": "48",
         "earth": "59",
         "round": false,
-        "render": ["Lord's Pants", "Punk Shoes", "Viking Leather Armor", "Tiger Ears", "Exotic Hair", "Turquoise Contact Lenses", "Gold Earrings", "Caribbean Beard", "Sup-a-Fly swatter", "Rodster Fishbasket", "Tiger Tail"]
+        "render": [
+            "Lord's Pants",
+            "Punk Shoes",
+            "Viking Leather Armor",
+            "Tiger Ears",
+            "Exotic Hair",
+            "Turquoise Contact Lenses",
+            "Gold Earrings",
+            "Caribbean Beard",
+            "Sup-a-Fly swatter",
+            "Rodster Fishbasket",
+            "Tiger Tail"
+        ]
     },
     "67": {
         "name": "Fullmetal Knight",
@@ -1404,7 +1898,12 @@
         "water": "79",
         "earth": "74",
         "round": false,
-        "render": ["Knight Armor Legs", "Knight Armor Torso", "Knight Armor Helmet", "Knight Great Sword"]
+        "render": [
+            "Knight Armor Legs",
+            "Knight Armor Torso",
+            "Knight Armor Helmet",
+            "Knight Great Sword"
+        ]
     },
     "68": {
         "name": "Northern Maiden",
@@ -1425,7 +1924,14 @@
         "water": "44",
         "earth": "35",
         "round": false,
-        "render": ["Shield-Maiden's Shoes", "Shield-Maiden's Dress", "Freya Hair", "Ruby Earring", "Dark Ifrit Bracelets", "Green Hero Cape"]
+        "render": [
+            "Shield-Maiden's Shoes",
+            "Shield-Maiden's Dress",
+            "Freya Hair",
+            "Ruby Earring",
+            "Dark Ifrit Bracelets",
+            "Green Hero Cape"
+        ]
     },
     "69": {
         "name": "Viking Lady",
@@ -1446,7 +1952,14 @@
         "water": "80",
         "earth": "20",
         "round": false,
-        "render": ["Viking Lady Shoes", "Viking Lady Coat", "Winter Hood Blonde", "Blue Contact Lenses", "Blue Viking Shield", "Warlord Cape"]
+        "render": [
+            "Viking Lady Shoes",
+            "Viking Lady Coat",
+            "Winter Hood Blonde",
+            "Blue Contact Lenses",
+            "Blue Viking Shield",
+            "Warlord Cape"
+        ]
     },
     "70": {
         "name": "Wanderer",
@@ -1467,7 +1980,13 @@
         "water": "84",
         "earth": "39",
         "round": false,
-        "render": ["Leisure Shoes", "Wanderer Dress", "Wanderer Hat", "CC Blonde", "Wanderer Staff"]
+        "render": [
+            "Leisure Shoes",
+            "Wanderer Dress",
+            "Wanderer Hat",
+            "CC Blonde",
+            "Wanderer Staff"
+        ]
     },
     "71": {
         "name": "Forest Princess",
@@ -1488,7 +2007,17 @@
         "water": "88",
         "earth": "40",
         "round": false,
-        "render": ["Easter Faerie Dress", "Holly Wreath Hat", "Side Braided Brown", "Purple Contact Lenses", "Faun Ears", "Saint Patrick's Day Wristbands", "Emerald Sword", "Nether Shield", "Fox Tail"]
+        "render": [
+            "Easter Faerie Dress",
+            "Holly Wreath Hat",
+            "Side Braided Brown",
+            "Purple Contact Lenses",
+            "Faun Ears",
+            "Saint Patrick's Day Wristbands",
+            "Emerald Sword",
+            "Nether Shield",
+            "Fox Tail"
+        ]
     },
     "72": {
         "name": "Maxson the Merc",
@@ -1509,7 +2038,9 @@
         "water": "105",
         "earth": "72",
         "round": false,
-        "render": ["SuperHeroAltar"]
+        "render": [
+            "SuperHeroAltar"
+        ]
     },
     "73": {
         "name": "Mushroom Man",
@@ -1530,7 +2061,14 @@
         "water": "45",
         "earth": "76",
         "round": false,
-        "render": ["Mushroom Shirt", "Berserker Shoes", "Mushroom Hat", "Blue Contact Lenses", "Red Wristbands", "Crowbar"]
+        "render": [
+            "Mushroom Shirt",
+            "Berserker Shoes",
+            "Mushroom Hat",
+            "Blue Contact Lenses",
+            "Red Wristbands",
+            "Crowbar"
+        ]
     },
     "74": {
         "name": "Winter Fox",
@@ -1551,7 +2089,17 @@
         "water": "48",
         "earth": "104",
         "round": false,
-        "render": ["Winter Fox Overalls", "Winter Fox Shoes", "Winter Fox Mask", "Geisha Hair", "Light Clan Facepaint", "Alien Lenses", "Winter Fox Gloves", "Frost Sword", "Winter Fox Tail"]
+        "render": [
+            "Winter Fox Overalls",
+            "Winter Fox Shoes",
+            "Winter Fox Mask",
+            "Geisha Hair",
+            "Light Clan Facepaint",
+            "Alien Lenses",
+            "Winter Fox Gloves",
+            "Frost Sword",
+            "Winter Fox Tail"
+        ]
     },
     "75": {
         "name": "Elven Smith",
@@ -1572,7 +2120,19 @@
         "water": "49",
         "earth": "39",
         "round": false,
-        "render": ["Lifeguard's Shorts", "Wood Elf Shoes", "Green Spandex Pants", "Pendant of the Moment", "Pirate Sailor Shirt", "Steam Hat", "Doll Hair", "Brown Contact Lenses", "Elf Ears", "Excavator Moustache", "Sun Hammer"]
+        "render": [
+            "Lifeguard's Shorts",
+            "Wood Elf Shoes",
+            "Green Spandex Pants",
+            "Pendant of the Moment",
+            "Pirate Sailor Shirt",
+            "Steam Hat",
+            "Doll Hair",
+            "Brown Contact Lenses",
+            "Elf Ears",
+            "Excavator Moustache",
+            "Sun Hammer"
+        ]
     },
     "76": {
         "name": "Wood Elf Lord",
@@ -1593,7 +2153,15 @@
         "water": "102",
         "earth": "71",
         "round": false,
-        "render": ["Wood Elf Pants", "Wood Elf Shoes", "Wood Elf Armor", "Wood Elf Cape", "Green Contact Lenses", "Wood Elf Face Mask", "Elven Dual Blades"]
+        "render": [
+            "Wood Elf Pants",
+            "Wood Elf Shoes",
+            "Wood Elf Armor",
+            "Wood Elf Cape",
+            "Green Contact Lenses",
+            "Wood Elf Face Mask",
+            "Elven Dual Blades"
+        ]
     },
     "77": {
         "name": "Gladiator",
@@ -1614,7 +2182,14 @@
         "water": "55",
         "earth": "77",
         "round": false,
-        "render": ["Legionary Sandals", "Gloomy Clubber Stick Sheaths", "Gladiator's Helmet", "Turquoise Contact Lenses", "Pitchfork", "Bronze Reinforced Shield"]
+        "render": [
+            "Legionary Sandals",
+            "Gloomy Clubber Stick Sheaths",
+            "Gladiator's Helmet",
+            "Turquoise Contact Lenses",
+            "Pitchfork",
+            "Bronze Reinforced Shield"
+        ]
     },
     "78": {
         "name": "Mr. Penguin",
@@ -1635,7 +2210,12 @@
         "water": "26",
         "earth": "70",
         "round": false,
-        "render": ["Penguin Suit", "Penguin Hood", "Black Handlebar Moustache", "Axes of Winter"]
+        "render": [
+            "Penguin Suit",
+            "Penguin Hood",
+            "Black Handlebar Moustache",
+            "Axes of Winter"
+        ]
     },
     "79": {
         "name": "High Elf King",
@@ -1656,7 +2236,14 @@
         "water": "78",
         "earth": "68",
         "round": false,
-        "render": ["Noble Elf Shoes", "Noble Elf Armor", "Golden Wings Tiara", "Noble Elf Hair", "Pointy Ears", "Blue Hero Cape"]
+        "render": [
+            "Noble Elf Shoes",
+            "Noble Elf Armor",
+            "Golden Wings Tiara",
+            "Noble Elf Hair",
+            "Pointy Ears",
+            "Blue Hero Cape"
+        ]
     },
     "80": {
         "name": "High Elf Soldier",
@@ -1677,7 +2264,15 @@
         "water": "105",
         "earth": "24",
         "round": false,
-        "render": ["Noble Elf Shoes", "Noble Elf Armor", "Noble Elf Helmet", "Blue Contact Lenses", "Noble Elf Lance", "Noble Elf Shield", "Noble Elf Cape"]
+        "render": [
+            "Noble Elf Shoes",
+            "Noble Elf Armor",
+            "Noble Elf Helmet",
+            "Blue Contact Lenses",
+            "Noble Elf Lance",
+            "Noble Elf Shield",
+            "Noble Elf Cape"
+        ]
     },
     "81": {
         "name": "Paladin",
@@ -1698,7 +2293,14 @@
         "water": "88",
         "earth": "44",
         "round": false,
-        "render": ["Paladin's Pants", "Paladin's Shoes", "Paladin's Armor", "Paladin's Helmet", "Red Contact Lenses", "Paladin's Mace"]
+        "render": [
+            "Paladin's Pants",
+            "Paladin's Shoes",
+            "Paladin's Armor",
+            "Paladin's Helmet",
+            "Red Contact Lenses",
+            "Paladin's Mace"
+        ]
     },
     "82": {
         "name": "Geisha",
@@ -1719,7 +2321,13 @@
         "water": "27",
         "earth": "79",
         "round": false,
-        "render": ["Blue Geisha Dress", "Black Geisha Shoes", "Gloomy Clubber Stick Sheaths", "Geisha Hair", "Red Contact Lenses"]
+        "render": [
+            "Blue Geisha Dress",
+            "Black Geisha Shoes",
+            "Gloomy Clubber Stick Sheaths",
+            "Geisha Hair",
+            "Red Contact Lenses"
+        ]
     },
     "83": {
         "name": "Wood Elf Scout",
@@ -1740,7 +2348,15 @@
         "water": "29",
         "earth": "83",
         "round": false,
-        "render": ["Wood Elf Pants", "Wood Elf Shoes", "Wood Elf Armor", "Wood Elf Cape", "Green Contact Lenses", "Wood Elf Face Mask", "Elven Dual Blades"]
+        "render": [
+            "Wood Elf Pants",
+            "Wood Elf Shoes",
+            "Wood Elf Armor",
+            "Wood Elf Cape",
+            "Green Contact Lenses",
+            "Wood Elf Face Mask",
+            "Elven Dual Blades"
+        ]
     },
     "84": {
         "name": "Bone Warrior",
@@ -1761,7 +2377,12 @@
         "water": "69",
         "earth": "37",
         "round": false,
-        "render": ["Bone Armor", "Bone Helmet", "Red Contact Lenses", "Bone Hammer"]
+        "render": [
+            "Bone Armor",
+            "Bone Helmet",
+            "Red Contact Lenses",
+            "Bone Hammer"
+        ]
     },
     "85": {
         "name": "Leaf Knight",
@@ -1782,7 +2403,15 @@
         "water": "67",
         "earth": "101",
         "round": false,
-        "render": ["Leaf Knight Pants", "Leaf Knight Shoes", "Leaf Knight Armor", "Leaf Knight Helmet", "Red Contact Lenses", "Leaf Knight Claymore", "Leaf Knight Shield"]
+        "render": [
+            "Leaf Knight Pants",
+            "Leaf Knight Shoes",
+            "Leaf Knight Armor",
+            "Leaf Knight Helmet",
+            "Red Contact Lenses",
+            "Leaf Knight Claymore",
+            "Leaf Knight Shield"
+        ]
     },
     "86": {
         "name": "Elven Mage",
@@ -1803,7 +2432,13 @@
         "water": "47",
         "earth": "103",
         "round": false,
-        "render": ["Elven mage robes", "Elven Mage Hood", "Green Contact Lenses", "Druid Staff", "Green Hero Cape"]
+        "render": [
+            "Elven mage robes",
+            "Elven Mage Hood",
+            "Green Contact Lenses",
+            "Druid Staff",
+            "Green Hero Cape"
+        ]
     },
     "87": {
         "name": "Butterfly Girlie",
@@ -1824,7 +2459,18 @@
         "water": "62",
         "earth": "65",
         "round": false,
-        "render": ["Ballerina Dress", "Bubblegum Shoes", "Butterfly Scarf", "Faerie Headdress", "Blonde Ponytail", "Rainbow Lenses", "Butterfly Glasses", "Faun Ears", "Pink Wristband", "Butterfly Wings"]
+        "render": [
+            "Ballerina Dress",
+            "Bubblegum Shoes",
+            "Butterfly Scarf",
+            "Faerie Headdress",
+            "Blonde Ponytail",
+            "Rainbow Lenses",
+            "Butterfly Glasses",
+            "Faun Ears",
+            "Pink Wristband",
+            "Butterfly Wings"
+        ]
     },
     "88": {
         "name": "Pixie Glitterbug",
@@ -1845,7 +2491,9 @@
         "water": "95",
         "earth": "105",
         "round": false,
-        "render": ["Butterfly"]
+        "render": [
+            "Butterfly"
+        ]
     },
     "89": {
         "name": "Blind Monk",
@@ -1866,7 +2514,14 @@
         "water": "66",
         "earth": "66",
         "round": false,
-        "render": ["Warlock Robes", "Heroic Blindfold", "Elf Ears", "Odin Beard", "Viking Spear", "Cape of Glide"]
+        "render": [
+            "Warlock Robes",
+            "Heroic Blindfold",
+            "Elf Ears",
+            "Odin Beard",
+            "Viking Spear",
+            "Cape of Glide"
+        ]
     },
     "90": {
         "name": "Boxing Banana",
@@ -1887,7 +2542,12 @@
         "water": "39",
         "earth": "41",
         "round": false,
-        "render": ["Banana Overalls", "Clown Shoes", "Pilot Glasses", "Green Boxing Gloves"]
+        "render": [
+            "Banana Overalls",
+            "Clown Shoes",
+            "Pilot Glasses",
+            "Green Boxing Gloves"
+        ]
     },
     "91": {
         "name": "Tickling Pickle",
@@ -1908,7 +2568,12 @@
         "water": "43",
         "earth": "63",
         "round": false,
-        "render": ["Pickles Overalls", "Green Visor", "Saint Patrick's Day Wristbands", "Mace of Corruption"]
+        "render": [
+            "Pickle Overalls",
+            "Green Visor",
+            "Saint Patrick's Day Wristbands",
+            "Mace of Corruption"
+        ]
     },
     "92": {
         "name": "Beach Hotdog",
@@ -1929,7 +2594,12 @@
         "water": "59",
         "earth": "33",
         "round": false,
-        "render": ["Hotdog Suit", "Beach Slippers", "Deep Dweller Glasses", "Beach Umbrella"]
+        "render": [
+            "Hotdog Suit",
+            "Beach Slippers",
+            "Deep Dweller Glasses",
+            "Beach Umbrella"
+        ]
     },
     "93": {
         "name": "Stallion",
@@ -1950,7 +2620,14 @@
         "water": "88",
         "earth": "62",
         "round": false,
-        "render": ["Faun Legs", "Decorative Backpack", "Fake Muscles", "Horse Head Mask", "Golden Short Sword", "Faun Tail"]
+        "render": [
+            "Faun Legs",
+            "Decorative Backpack",
+            "Fake Muscles",
+            "Horse Head Mask",
+            "Golden Short Sword",
+            "Faun Tail"
+        ]
     },
     "94": {
         "name": "Egghunter",
@@ -1971,7 +2648,17 @@
         "water": "46",
         "earth": "56",
         "round": false,
-        "render": ["Egg Hunter Skirt", "Spartan Sandals", "Egg Hunter Top", "Egg Hunter Hat", "Egg Hunter Mask 2018", "Turquoise Contact Lenses", "Punk Earring", "Saint Patrick's Day Wristbands", "Egg Hunter Staff"]
+        "render": [
+            "Egg Hunter Skirt",
+            "Spartan Sandals",
+            "Egg Hunter Top",
+            "Egg Hunter Hat",
+            "Egg Hunter Mask 2018",
+            "Turquoise Contact Lenses",
+            "Punk Earring",
+            "Saint Patrick's Day Wristbands",
+            "Egg Hunter Staff"
+        ]
     },
     "95": {
         "name": "Son of Dagon",
@@ -1992,7 +2679,16 @@
         "water": "102",
         "earth": "62",
         "round": false,
-        "render": ["Mermaid Tail", "Fake Muscles", "Headband Lamp", "Blue Spiky Jpop", "Dagon Hybrid Mask", "Faun Ears", "Ocean Ring", "Mythical Blue Tentacle"]
+        "render": [
+            "Mermaid Tail",
+            "Fake Muscles",
+            "Headband Lamp",
+            "Blue Spiky Jpop",
+            "Dagon Hybrid Mask",
+            "Faun Ears",
+            "Ocean Ring",
+            "Mythical Blue Tentacle"
+        ]
     },
     "96": {
         "name": "Naval Officer",
@@ -2013,7 +2709,16 @@
         "water": "76",
         "earth": "36",
         "round": false,
-        "render": ["Flight Captain Pants", "Naval Officer Shoes", "Naval Officer Coat", "Naval Officer Wig", "Green Contact Lenses", "Monocle", "Santa's Sideburns", "Walking Cane"]
+        "render": [
+            "Flight Captain Pants",
+            "Naval Officer Shoes",
+            "Naval Officer Coat",
+            "Naval Officer Wig",
+            "Green Contact Lenses",
+            "Monocle",
+            "Santa's Sideburns",
+            "Walking Cane"
+        ]
     },
     "97": {
         "name": "Desert Warrioress",
@@ -2034,7 +2739,16 @@
         "water": "72",
         "earth": "48",
         "round": false,
-        "render": ["Buccaneer Pants", "Pirate Captain's Shoes", "Katana scabbard", "Black Ninja Shirt", "Summer Headwrap", "Purple Contact Lenses", "Red Face Scarf", "Mantle Sword"]
+        "render": [
+            "Buccaneer Pants",
+            "Pirate Captain's Shoes",
+            "Katana scabbard",
+            "Black Ninja Shirt",
+            "Summer Headwrap",
+            "Purple Contact Lenses",
+            "Red Face Scarf",
+            "Mantle Sword"
+        ]
     },
     "98": {
         "name": "Sam the Superhero",
@@ -2055,7 +2769,9 @@
         "water": "59",
         "earth": "92",
         "round": false,
-        "render": ["SuperHero"]
+        "render": [
+            "SuperHero"
+        ]
     },
     "99": {
         "name": "Colonial Lady",
@@ -2076,7 +2792,14 @@
         "water": "23",
         "earth": "61",
         "round": false,
-        "render": ["Colonial Yellow Dress", "Colonial Lady's Hat", "Blonde Khaleesi", "Blue Contact Lenses", "Ruby Earring", "Ninjato Sword"]
+        "render": [
+            "Colonial Yellow Dress",
+            "Colonial Lady's Hat",
+            "Blonde Khaleesi",
+            "Blue Contact Lenses",
+            "Ruby Earring",
+            "Ninjato Sword"
+        ]
     },
     "100": {
         "name": "Naval Cadet",
@@ -2097,7 +2820,15 @@
         "water": "63",
         "earth": "52",
         "round": false,
-        "render": ["Naval Officer Pants", "Naval Officer Shoes", "Naval Officer Coat", "Naval Officer Hat", "Naval Officer Wig", "Blue Contact Lenses", "Naval Officer's Rapier"]
+        "render": [
+            "Naval Officer Pants",
+            "Naval Officer Shoes",
+            "Naval Officer Coat",
+            "Naval Officer Hat",
+            "Naval Officer Wig",
+            "Blue Contact Lenses",
+            "Naval Officer's Rapier"
+        ]
     },
     "101": {
         "name": "Ice Queen",
@@ -2118,7 +2849,14 @@
         "water": "81",
         "earth": "57",
         "round": false,
-        "render": ["Ice Queen Dress", "Ice Queen Cape", "Ice Queen Crown", "Noble Elf Hair", "Faun Ears", "Ice Queen Staff"]
+        "render": [
+            "Ice Queen Dress",
+            "Ice Queen Cape",
+            "Ice Queen Crown",
+            "Noble Elf Hair",
+            "Faun Ears",
+            "Ice Queen Staff"
+        ]
     },
     "102": {
         "name": "Druid",
@@ -2139,7 +2877,17 @@
         "water": "83",
         "earth": "58",
         "round": false,
-        "render": ["Green Kilt", "Berserker Shoes", "Kivi the Cat", "Light Clan Facepaint", "Purple Contact Lenses", "Leaf Beard", "Saint Patrick's Day Wristbands", "Soul Cleaver", "Faerie Wings"]
+        "render": [
+            "Green Kilt",
+            "Berserker Shoes",
+            "Kivi the Cat",
+            "Light Clan Facepaint",
+            "Purple Contact Lenses",
+            "Leaf Beard",
+            "Saint Patrick's Day Wristbands",
+            "Soul Cleaver",
+            "Faerie Wings"
+        ]
     },
     "103": {
         "name": "Candy Knight",
@@ -2160,7 +2908,14 @@
         "water": "85",
         "earth": "65",
         "round": false,
-        "render": ["Candy Knight Leg Armor", "Candy Knight Shoes", "Candy Knight Armor", "Candy Knight Helmet", "Red Contact Lenses", "Candy Knight Katana"]
+        "render": [
+            "Candy Knight Leg Armor",
+            "Candy Knight Shoes",
+            "Candy Knight Armor",
+            "Candy Knight Helmet",
+            "Red Contact Lenses",
+            "Candy Knight Katana"
+        ]
     },
     "104": {
         "name": "Pixel Bot",
@@ -2181,7 +2936,9 @@
         "water": "73",
         "earth": "109",
         "round": false,
-        "render": ["HelpBot"]
+        "render": [
+            "HelpBot"
+        ]
     },
     "105": {
         "name": "Member of Light",
@@ -2202,7 +2959,16 @@
         "water": "50",
         "earth": "47",
         "round": false,
-        "render": ["Noble Elf Pants", "Leisure Shoes", "Light Clan Hoodie", "Light Clan Facepaint", "Light Clan Visor", "Marvelous Moustache", "Light Clan Shield", "Light Clan Wings"]
+        "render": [
+            "Noble Elf Pants",
+            "Leisure Shoes",
+            "Light Clan Hoodie",
+            "Light Clan Facepaint",
+            "Light Clan Visor",
+            "Marvelous Moustache",
+            "Light Clan Shield",
+            "Light Clan Wings"
+        ]
     },
     "106": {
         "name": "Pixel Bot Head",
@@ -2223,7 +2989,13 @@
         "water": "78",
         "earth": "63",
         "round": false,
-        "render": ["Unisex swimsuit", "Beach Slippers", "Pixelbot Mask", "Deep Dweller Glasses", "Poseidon's Trident"]
+        "render": [
+            "Unisex swimsuit",
+            "Beach Slippers",
+            "Pixelbot Mask",
+            "Deep Dweller Glasses",
+            "Poseidon's Trident"
+        ]
     },
     "107": {
         "name": "Always Greener...",
@@ -2244,7 +3016,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Boggart"]
+        "render": [
+            "Boggart"
+        ]
     },
     "108": {
         "name": "Freeze!",
@@ -2265,7 +3039,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Snow'o'Ball"]
+        "render": [
+            "Snow'o'Ball"
+        ]
     },
     "109": {
         "name": "Tag Along!",
@@ -2278,7 +3054,7 @@
         },
         "card_type": "Action",
         "fraction": "Dark",
-        "power": 4,
+        "power": 5,
         "starter": false,
         "craftable": true,
         "fire": "",
@@ -2286,7 +3062,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Braveheart"]
+        "render": [
+            "Braveheart"
+        ]
     },
     "110": {
         "name": "Make It Count!",
@@ -2307,20 +3085,22 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Battle World Locksie"]
+        "render": [
+            "Battle World Locksie"
+        ]
     },
     "111": {
         "name": "Petrifying Gaze",
         "desc": {
-            "en": "2 random cards are discarded from your opponent's hand.\n",
-            "fi": "Vastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n 2 sattumanvaraista korttia.\n",
-            "pl": "Z r\u0119ki przeciwnika odrzucane s\u0105 2 losowe karty.\n",
-            "se": "2 slumpm\u00e4ssiga kort sakas fr\u00e5n din motst\u00e5ndares hand.\n",
-            "es": "Tu oponente descarta 2 cartas al azar de su mano.\n"
+            "en": "2 random cards are discarded from your opponent's hand.\nYou may not play any action or effect cards on your next turn.\n",
+            "fi": "Vastustajasi k\u00e4dest\u00e4 hyl\u00e4t\u00e4\u00e4n 2 sattumanvaraista korttia.\nEt voi pelata action- tai effect-korttia seuraavalla vuorollasi.\n",
+            "pl": "Z r\u0119ki przeciwnika odrzucane s\u0105 2 losowe karty.\nW nast\u0119pnej turze nie mo\u017cesz zagra\u0107 kartami action lub effect.\n",
+            "se": "2 slumpm\u00e4ssiga kort sakas fr\u00e5n din motst\u00e5ndares hand.\nDu f\u00e5r inte spela n\u00e5gra action- eller effektkort under din n\u00e4sta tur.\n",
+            "es": "Tu oponente descarta 2 cartas al azar de su mano.\nNo podr\u00e1s jugar cartas de acci\u00f3n o de efecto en tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
-        "power": 2,
+        "power": 3,
         "starter": false,
         "craftable": true,
         "fire": "",
@@ -2328,7 +3108,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Eye"]
+        "render": [
+            "Eye"
+        ]
     },
     "112": {
         "name": "Oh Snap!",
@@ -2349,16 +3131,18 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Poop Familiar"]
+        "render": [
+            "Poop Familiar"
+        ]
     },
     "113": {
         "name": "Gust of Wind",
         "desc": {
-            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
+            "en": "Your allies get 30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla 30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r 30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen 30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2370,7 +3154,9 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Macaw"]
+        "render": [
+            "Macaw"
+        ]
     },
     "114": {
         "name": "Re-balance",
@@ -2383,7 +3169,7 @@
         },
         "card_type": "Action",
         "fraction": "Dark",
-        "power": 2,
+        "power": 3,
         "starter": false,
         "craftable": true,
         "fire": "",
@@ -2391,16 +3177,18 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Dark Bunny"]
+        "render": [
+            "Dark Bunny"
+        ]
     },
     "115": {
         "name": "Splash!",
         "desc": {
-            "en": "Your allies get +15 on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +15.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +15 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r +15 denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen +15 este turno.\nRoba una carta.\n"
+            "en": "Your allies get 15 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla 15.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 15 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r 15 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen 15 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2412,7 +3200,9 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Squidsie"]
+        "render": [
+            "Squidsie"
+        ]
     },
     "116": {
         "name": "Shell Disarm",
@@ -2433,20 +3223,22 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Spinner Turtle"]
+        "render": [
+            "Spinner Turtle"
+        ]
     },
     "117": {
         "name": "Not Just a Spark",
         "desc": {
-            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
+            "en": "Your allies get 30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla 30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r 30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen 30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
-        "power": 2,
+        "power": 3,
         "starter": false,
         "craftable": true,
         "fire": "",
@@ -2454,7 +3246,9 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Nether Ball"]
+        "render": [
+            "Nether Ball"
+        ]
     },
     "118": {
         "name": "Misleading Bat",
@@ -2475,7 +3269,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Bat"]
+        "render": [
+            "Bat"
+        ]
     },
     "119": {
         "name": "Too Hot to Handle!",
@@ -2496,7 +3292,9 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Flame Skull"]
+        "render": [
+            "Flame Skull"
+        ]
     },
     "120": {
         "name": "Quite a Pickle!",
@@ -2517,7 +3315,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Sensei Pickle"]
+        "render": [
+            "Sensei Pickle"
+        ]
     },
     "121": {
         "name": "Buzzy Confusion",
@@ -2538,16 +3338,18 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Bee-Bee"]
+        "render": [
+            "Bee-Bee"
+        ]
     },
     "122": {
         "name": "Helping Hands",
         "desc": {
-            "en": "Your allies get +30 on all stats on this turn.\nYou may not play any action or effect cards on your next turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +30.\nEt voi pelata action- tai effect-korttia seuraavalla vuorollasi.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 do wszystkich statystyk w tej turze.\nW nast\u0119pnej turze nie mo\u017cesz zagra\u0107 kartami action lub effect.\n",
-            "se": "Dina allierade f\u00e5r +30 f\u00f6r alla stats denna runda.\nDu f\u00e5r inte spela n\u00e5gra action- eller effektkort under din n\u00e4sta tur.\n",
-            "es": "Tus aliados modifican sus valores por +30 este turno.\nNo podr\u00e1s jugar cartas de acci\u00f3n o de efecto en tu pr\u00f3ximo turno.\n"
+            "en": "Your allies get 30 on all stats on this turn.\nYou may not play any action or effect cards on your next turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat 30.\nEt voi pelata action- tai effect-korttia seuraavalla vuorollasi.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 30 do wszystkich statystyk w tej turze.\nW nast\u0119pnej turze nie mo\u017cesz zagra\u0107 kartami action lub effect.\n",
+            "se": "Dina allierade f\u00e5r 30 f\u00f6r alla stats denna runda.\nDu f\u00e5r inte spela n\u00e5gra action- eller effektkort under din n\u00e4sta tur.\n",
+            "es": "Tus aliados modifican sus valores por 30 este turno.\nNo podr\u00e1s jugar cartas de acci\u00f3n o de efecto en tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2559,16 +3361,18 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Queentopus"]
+        "render": [
+            "Queentopus"
+        ]
     },
     "123": {
         "name": "Hopping On!",
         "desc": {
-            "en": "Your allies get +15 on all stats on this turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +15.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +15 do wszystkich statystyk w tej turze.\n",
-            "se": "Dina allierade f\u00e5r +15 f\u00f6r alla stats denna runda.\n",
-            "es": "Tus aliados modifican sus valores por +15 este turno.\n"
+            "en": "Your allies get 15 on all stats on this turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat 15.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 15 do wszystkich statystyk w tej turze.\n",
+            "se": "Dina allierade f\u00e5r 15 f\u00f6r alla stats denna runda.\n",
+            "es": "Tus aliados modifican sus valores por 15 este turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2580,7 +3384,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["White bunny"]
+        "render": [
+            "White bunny"
+        ]
     },
     "124": {
         "name": "Cold Feet",
@@ -2601,7 +3407,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Baby Penguin"]
+        "render": [
+            "Baby Penguin"
+        ]
     },
     "125": {
         "name": "Think Positive",
@@ -2622,7 +3430,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Valentine"]
+        "render": [
+            "Valentine"
+        ]
     },
     "126": {
         "name": "Grow Some More",
@@ -2643,7 +3453,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Pumpkin"]
+        "render": [
+            "Pumpkin"
+        ]
     },
     "127": {
         "name": "Kiss of a Pickle!",
@@ -2664,7 +3476,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Ninja Pickle"]
+        "render": [
+            "Ninja Pickle"
+        ]
     },
     "128": {
         "name": "Aerial Distraction!",
@@ -2685,16 +3499,18 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Wee Gully"]
+        "render": [
+            "Wee Gully"
+        ]
     },
     "129": {
         "name": "Hello Darkness...",
         "desc": {
-            "en": "Your allied dark faction cards get +40 on all stats until your next turn.\n",
-            "fi": "Pimeyden puolella olevien character-korttiesi arvot saavat +40 seuraavaan vuoroosi saakka.\n",
-            "pl": "Do twojej nast\u0119pnej tury karty frakcji Ciemno\u015bci otrzymuj\u0105 +40 do wszystkich statystyk.\n",
-            "se": "Dina allierade m\u00f6rk grupp-kort f\u00e5r +40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
-            "es": "Tus cartas aliadas de facci\u00f3n oscura modifican sus valores por +40 hasta tu pr\u00f3ximo turno.\n"
+            "en": "Your allied dark faction cards get 40 on all stats until your next turn.\n",
+            "fi": "Pimeyden puolella olevien character-korttiesi arvot saavat 40 seuraavaan vuoroosi saakka.\n",
+            "pl": "Do twojej nast\u0119pnej tury karty frakcji Ciemno\u015bci otrzymuj\u0105 40 do wszystkich statystyk.\n",
+            "se": "Dina allierade m\u00f6rk grupp-kort f\u00e5r 40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
+            "es": "Tus cartas aliadas de facci\u00f3n oscura modifican sus valores por 40 hasta tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2706,7 +3522,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Baby Darkness"]
+        "render": [
+            "Baby Darkness"
+        ]
     },
     "130": {
         "name": "Staring to the Sun",
@@ -2727,16 +3545,18 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Sunny"]
+        "render": [
+            "Sunny"
+        ]
     },
     "131": {
         "name": "Let the Light Shine!",
         "desc": {
-            "en": "Your allied light faction cards get +40 to all stats until your next turn.\n",
-            "fi": "Valon puolella olevien character-korttiesi arvot saavat +40 seuraavaan vuoroosi saakka.\n",
-            "pl": "Do twojej nast\u0119pnej tury sojusznicze karty frakcji \u015awiat\u0142o\u015bci otrzymuj\u0105 +40 do wszystkich statystyk.\n",
-            "se": "Dina allierade ljus grupp-kort f\u00e5r +40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
-            "es": "Tus cartas aliadas de facci\u00f3n de luz modifican sus valores por +40 hasta tu pr\u00f3ximo turno.\n"
+            "en": "Your allied light faction cards get 40 to all stats until your next turn.\n",
+            "fi": "Valon puolella olevien character-korttiesi arvot saavat 40 seuraavaan vuoroosi saakka.\n",
+            "pl": "Do twojej nast\u0119pnej tury sojusznicze karty frakcji \u015awiat\u0142o\u015bci otrzymuj\u0105 40 do wszystkich statystyk.\n",
+            "se": "Dina allierade ljus grupp-kort f\u00e5r 40 f\u00f6r alla stats till din n\u00e4sta tur.\n",
+            "es": "Tus cartas aliadas de facci\u00f3n de luz modifican sus valores por 40 hasta tu pr\u00f3ximo turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2748,7 +3568,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Baby Light"]
+        "render": [
+            "Baby Light"
+        ]
     },
     "132": {
         "name": "Dark or Nothing",
@@ -2769,16 +3591,18 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Dark Locksie"]
+        "render": [
+            "Dark Locksie"
+        ]
     },
     "133": {
         "name": "Down to Earth Type",
         "desc": {
-            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
+            "en": "Your allies get 30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla 30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r 30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen 30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2790,16 +3614,18 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Senor Tortuga"]
+        "render": [
+            "Senor Tortuga"
+        ]
     },
     "134": {
         "name": "We All Float",
         "desc": {
-            "en": "Your allies get +30 on this turn.\nDraw a card.\n",
-            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla +30.\nVed\u00e4 kortti.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
-            "se": "Dina allierade f\u00e5r +30 denna runda.\nDra ett kort.\n",
-            "es": "Tus aliados obtienen +30 este turno.\nRoba una carta.\n"
+            "en": "Your allies get 30 on this turn.\nDraw a card.\n",
+            "fi": "Character-korttisi saavat t\u00e4ll\u00e4 vuorolla 30.\nVed\u00e4 kortti.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 30 w tej turze.\nDobierz jedn\u0105 kart\u0119.\n",
+            "se": "Dina allierade f\u00e5r 30 denna runda.\nDra ett kort.\n",
+            "es": "Tus aliados obtienen 30 este turno.\nRoba una carta.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -2811,7 +3637,9 @@
         "water": "",
         "earth": "",
         "round": true,
-        "render": ["Jellie"]
+        "render": [
+            "Jellie"
+        ]
     },
     "135": {
         "name": "Sword of Might",
@@ -2827,12 +3655,14 @@
         "power": 4,
         "starter": false,
         "craftable": true,
-        "fire": "30",
-        "air": "30",
+        "fire": "25",
+        "air": "25",
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Sword in Stone"]
+        "render": [
+            "Sword in Stone"
+        ]
     },
     "136": {
         "name": "Fishy Bucket",
@@ -2853,7 +3683,9 @@
         "water": "20",
         "earth": "15",
         "round": false,
-        "render": ["Fish Barrel"]
+        "render": [
+            "Fish Barrel"
+        ]
     },
     "137": {
         "name": "Rune of Othila",
@@ -2874,7 +3706,9 @@
         "water": "",
         "earth": "10",
         "round": false,
-        "render": ["Blue Runestone"]
+        "render": [
+            "Blue Runestone"
+        ]
     },
     "138": {
         "name": "Trusty Old Toilet",
@@ -2895,7 +3729,9 @@
         "water": "30",
         "earth": "",
         "round": false,
-        "render": ["Toilet Seat"]
+        "render": [
+            "Toilet Seat"
+        ]
     },
     "139": {
         "name": "Rune of Inguz",
@@ -2916,7 +3752,9 @@
         "water": "10",
         "earth": "",
         "round": false,
-        "render": ["Green Runestone"]
+        "render": [
+            "Green Runestone"
+        ]
     },
     "140": {
         "name": "Book of Destiny",
@@ -2929,15 +3767,17 @@
         },
         "card_type": "Effect",
         "fraction": "Dark",
-        "power": 3,
+        "power": 4,
         "starter": false,
         "craftable": true,
         "fire": "5",
         "air": "",
-        "water": "5",
+        "water": "",
         "earth": "",
         "round": false,
-        "render": ["Anniversary Guestbook"]
+        "render": [
+            "Anniversary Guestbook"
+        ]
     },
     "141": {
         "name": "Well of Kan'cula",
@@ -2958,7 +3798,9 @@
         "water": "",
         "earth": "30",
         "round": false,
-        "render": ["Wishing Well"]
+        "render": [
+            "Wishing Well"
+        ]
     },
     "142": {
         "name": "Royal Funeral",
@@ -2976,10 +3818,12 @@
         "craftable": true,
         "fire": "",
         "air": "20",
-        "water": "15",
+        "water": "20",
         "earth": "",
         "round": false,
-        "render": ["Sarcophagus"]
+        "render": [
+            "Sarcophagus"
+        ]
     },
     "143": {
         "name": "World Hologram",
@@ -3000,7 +3844,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["World Hologram"]
+        "render": [
+            "World Hologram"
+        ]
     },
     "144": {
         "name": "Righteous Banner",
@@ -3017,11 +3863,13 @@
         "starter": false,
         "craftable": true,
         "fire": "",
-        "air": "25",
+        "air": "20",
         "water": "15",
         "earth": "",
         "round": false,
-        "render": ["Elven Banner"]
+        "render": [
+            "Elven Banner"
+        ]
     },
     "145": {
         "name": "Barbeque Time",
@@ -3042,7 +3890,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Campfire"]
+        "render": [
+            "Campfire"
+        ]
     },
     "146": {
         "name": "Evil Ride",
@@ -3063,7 +3913,9 @@
         "water": "15",
         "earth": "",
         "round": false,
-        "render": ["Kiddie Ride"]
+        "render": [
+            "Kiddie Ride"
+        ]
     },
     "147": {
         "name": "Pacifist Bunny",
@@ -3084,7 +3936,9 @@
         "water": "",
         "earth": "10",
         "round": false,
-        "render": ["Toy Bunny"]
+        "render": [
+            "Toy Bunny"
+        ]
     },
     "148": {
         "name": "War Preparations",
@@ -3102,10 +3956,12 @@
         "craftable": true,
         "fire": "",
         "air": "",
-        "water": "30",
-        "earth": "30",
+        "water": "25",
+        "earth": "25",
         "round": false,
-        "render": ["Viking Shield Decoration"]
+        "render": [
+            "Viking Shield Decoration"
+        ]
     },
     "149": {
         "name": "Old Telly",
@@ -3126,7 +3982,9 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Old TV"]
+        "render": [
+            "Old TV"
+        ]
     },
     "150": {
         "name": "Gargoyle",
@@ -3147,7 +4005,9 @@
         "water": "10",
         "earth": "",
         "round": false,
-        "render": ["Gargoyle"]
+        "render": [
+            "Gargoyle"
+        ]
     },
     "151": {
         "name": "Mopey Statue",
@@ -3168,16 +4028,18 @@
         "water": "",
         "earth": "15",
         "round": false,
-        "render": ["Moai Statue"]
+        "render": [
+            "Moai Statue"
+        ]
     },
     "152": {
         "name": "Chick",
         "desc": {
-            "en": "",
-            "fi": "",
-            "pl": "",
-            "se": "",
-            "es": ""
+            "en": "Your opponent may not discard any of your cards.\n",
+            "fi": "Vastustajasi ei voi hyl\u00e4t\u00e4 korttejasi.\n",
+            "pl": "Tw\u00f3j przeciwnik nie mo\u017ce odrzuci\u0107 twoich kart.\n",
+            "se": "Din motst\u00e5ndare f\u00e5r inte saka n\u00e5got av dina kort.\n",
+            "es": "Tu oponente no puede descartar ninguna de tus cartas.\n"
         },
         "card_type": "Effect",
         "fraction": "Dark",
@@ -3186,10 +4048,12 @@
         "craftable": true,
         "fire": "10",
         "air": "",
-        "water": "20",
+        "water": "10",
         "earth": "",
         "round": false,
-        "render": ["Toy Chick"]
+        "render": [
+            "Toy Chick"
+        ]
     },
     "153": {
         "name": "Temple Brazier",
@@ -3210,7 +4074,9 @@
         "water": "15",
         "earth": "",
         "round": false,
-        "render": ["Temple Brazier"]
+        "render": [
+            "Temple Brazier"
+        ]
     },
     "154": {
         "name": "Sphere of Darkness",
@@ -3231,7 +4097,9 @@
         "water": "15",
         "earth": "",
         "round": false,
-        "render": ["OrbLightingMining"]
+        "render": [
+            "OrbLightingMining"
+        ]
     },
     "155": {
         "name": "Migration Relic",
@@ -3252,7 +4120,9 @@
         "water": "",
         "earth": "15",
         "round": false,
-        "render": ["Miniature Spaceship"]
+        "render": [
+            "Miniature Spaceship"
+        ]
     },
     "156": {
         "name": "Tomb of a Miner",
@@ -3271,9 +4141,11 @@
         "fire": "",
         "air": "",
         "water": "30",
-        "earth": "20",
+        "earth": "30",
         "round": false,
-        "render": ["Miner Tomb"]
+        "render": [
+            "Miner Tomb"
+        ]
     },
     "157": {
         "name": "Turok the Wanderer",
@@ -3294,7 +4166,9 @@
         "water": "26",
         "earth": "72",
         "round": false,
-        "render": ["NetherWorldVendor"]
+        "render": [
+            "NetherWorldVendor"
+        ]
     },
     "158": {
         "name": "Johan the Rodster",
@@ -3315,7 +4189,9 @@
         "water": "119",
         "earth": "68",
         "round": false,
-        "render": ["OldFisherman"]
+        "render": [
+            "OldFisherman"
+        ]
     },
     "159": {
         "name": "Breck the Prospector",
@@ -3336,7 +4212,9 @@
         "water": "73",
         "earth": "122",
         "round": false,
-        "render": ["Mining"]
+        "render": [
+            "Mining"
+        ]
     },
     "160": {
         "name": "Manfred the Baron",
@@ -3357,16 +4235,18 @@
         "water": "64",
         "earth": "26",
         "round": false,
-        "render": ["JetRace"]
+        "render": [
+            "JetRace"
+        ]
     },
     "161": {
         "name": "Muggy",
         "desc": {
-            "en": "Your allies get +25 on all stats on this turn.\n",
-            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat +25.\n",
-            "pl": "Twoi sojusznicy otrzymuj\u0105 +25 do wszystkich statystyk w tej turze.\n",
-            "se": "Dina allierade f\u00e5r +25 f\u00f6r alla stats denna runda.\n",
-            "es": "Tus aliados modifican sus valores por +25 este turno.\n"
+            "en": "Your allies get 25 on all stats on this turn.\n",
+            "fi": "T\u00e4ll\u00e4 vuorolla kaikki character-korttiesi arvot saavat 25.\n",
+            "pl": "Twoi sojusznicy otrzymuj\u0105 25 do wszystkich statystyk w tej turze.\n",
+            "se": "Dina allierade f\u00e5r 25 f\u00f6r alla stats denna runda.\n",
+            "es": "Tus aliados modifican sus valores por 25 este turno.\n"
         },
         "card_type": "Action",
         "fraction": "Dark",
@@ -3378,6 +4258,54 @@
         "water": "",
         "earth": "",
         "round": false,
-        "render": ["Jake's Muggy"]
+        "render": [
+            "Jake's Muggy"
+        ]
+    },
+    "162": {
+        "name": "Jacko the Soulhoarder",
+        "desc": {
+            "en": "",
+            "fi": "",
+            "pl": "",
+            "se": "",
+            "es": ""
+        },
+        "card_type": "Character",
+        "fraction": "Dark",
+        "power": 5,
+        "starter": false,
+        "craftable": false,
+        "fire": "60",
+        "air": "20",
+        "water": "75",
+        "earth": "125",
+        "round": false,
+        "render": [
+            "Igor"
+        ]
+    },
+    "163": {
+        "name": "Candy Demon",
+        "desc": {
+            "en": "",
+            "fi": "",
+            "pl": "",
+            "se": "",
+            "es": ""
+        },
+        "card_type": "Character",
+        "fraction": "Dark",
+        "power": 5,
+        "starter": false,
+        "craftable": false,
+        "fire": "125",
+        "air": "60",
+        "water": "20",
+        "earth": "75",
+        "round": false,
+        "render": [
+            "BlackTowerVendor"
+        ]
     }
 }
