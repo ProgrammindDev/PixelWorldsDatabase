@@ -1,0 +1,632 @@
+{
+    "Healthy": {
+        "name": {
+            "en": "Healthy",
+            "fi": "Terve kuin pukki",
+            "pl": "Okaz zdrowia",
+            "se": "H\u00e4lsosam",
+            "es": "Saludable"
+        },
+        "desc": {
+            "en": "10% more health",
+            "fi": "10% lis\u00e4\u00e4 el\u00e4m\u00e4pisteit\u00e4",
+            "pl": "10% zdrowia wi\u0119cej.",
+            "se": "10 % mer h\u00e4lsa",
+            "es": "10% m\u00e1s de salud"
+        },
+        "level": 2,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/01.png"
+    },
+    "Nice Catch": {
+        "name": {
+            "en": "Nice Catch",
+            "fi": "Hyv\u00e4 saalis",
+            "pl": "Niez\u0142a zdobycz",
+            "se": "Bra f\u00e5ngst",
+            "es": "Buena Pesca"
+        },
+        "desc": {
+            "en": "Fishing gives 5% of more XP",
+            "fi": "5% lis\u00e4\u00e4 XP:t\u00e4 kalastaessa",
+            "pl": "W\u0119dkarstwo zapewnia 5% wi\u0119cej PD",
+            "se": "Fiske ger 5 % mer XP",
+            "es": "Al pescar, obtienes 5% m\u00e1s de EXP"
+        },
+        "level": 5,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/02.png"
+    },
+    "Gem Resque": {
+        "name": {
+            "en": "Gem Rescue",
+            "fi": "Pelastetut jalokivet",
+            "pl": "Uratowane klejnoty",
+            "se": "Juvelr\u00e4ddning",
+            "es": "Rescate de Gemas"
+        },
+        "desc": {
+            "en": "Keep 25% of the gems gathered in Nether World even if you die",
+            "fi": "Saat pit\u00e4\u00e4 25% ker\u00e4tyist\u00e4 jalokivist\u00e4, jos sinut kukistetaan Netherworldissa",
+            "pl": "W przypadku \u015bmierci w Podziemnej Krainie zachowujesz 25% zgromadzonych klejnot\u00f3w.",
+            "se": "Beh\u00e5ll 25 % av juvelerna du samlat in i Undre v\u00e4rlden \u00e4ven om du d\u00f6r",
+            "es": "Guarda el 25% de las gemas reunidas en el Mundo Infernal, incluso si mueres"
+        },
+        "level": 10,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/03.png"
+    },
+    "Careful Wreck": {
+        "name": {
+            "en": "Careful Wreck",
+            "fi": "Riko varoen",
+            "pl": "Odzysk",
+            "se": "Varning f\u00f6r \u00f6del\u00e4ggelse",
+            "es": "Restos Cuidadosos"
+        },
+        "desc": {
+            "en": "Doubles the chance of a block dropping itself when destroyed",
+            "fi": "Blokki pudottaa saman blokin rikottaessa tuplasti todenn\u00e4k\u00f6isemmin",
+            "pl": "Podwaja szans\u0119 na pozostawienie przez zniszczony blok identycznego bloku.",
+            "se": "Dubblar chansen f\u00f6r att ett block sl\u00e4pper ett likadant n\u00e4r det f\u00f6rst\u00f6rs",
+            "es": "Duplica la posibilidad de que un bloque se deje caer a s\u00ed mismo al destruirlo"
+        },
+        "level": 15,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/04.png"
+    },
+    "Melee Madness": {
+        "name": {
+            "en": "Melee Madness",
+            "fi": "K\u00e4sirysy",
+            "pl": "Szale\u0144stwo bliskiego kontaktu",
+            "se": "Kaotiskt vansinne",
+            "es": "Locura Mel\u00e9"
+        },
+        "desc": {
+            "en": "5% more damage when using a melee weapon to all players and enemies",
+            "fi": "5% enemm\u00e4n vahinkoa muihin pelaajiin ja vihollisiin, kun k\u00e4yt\u00e4t l\u00e4hitaisteluasetta",
+            "pl": "Zwi\u0119ksza o 5% obra\u017cenia zadawane wszystkim graczom i wrogom za pomoc\u0105 broni do walki wr\u0119cz.",
+            "se": "5 % mer skada mot alla spelare och fiender n\u00e4r du anv\u00e4nder ett handgem\u00e4ngsvapen",
+            "es": "5% m\u00e1s de da\u00f1o al utilizar un arma mel\u00e9 contra todos los jugadores y enemigos"
+        },
+        "level": 20,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/05.png"
+    },
+    "One More Try": {
+        "name": {
+            "en": "One More Try",
+            "fi": "Uusi yritys",
+            "pl": "Jeszcze jedna pr\u00f3ba",
+            "se": "Ett f\u00f6rs\u00f6k till",
+            "es": "Un intento m\u00e1s"
+        },
+        "desc": {
+            "en": "Gives an Extra Life in Nether World and Secret Lab",
+            "fi": "Antaa lis\u00e4el\u00e4m\u00e4n Netherworldiin ja Secret Labiin",
+            "pl": "Zapewnia dodatkowe \u017cycie w Podziemnej Krainie i Tajnym Laboratorium.",
+            "se": "Ger ett extraliv i Undre v\u00e4rlden och Hemliga labbet",
+            "es": "Otorga una vida extra en Mundo Infernal y Laboratorio Secreto"
+        },
+        "level": 25,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/06.png"
+    },
+    "Scent Of Gold": {
+        "name": {
+            "en": "Scent of Gold",
+            "fi": "Kullan tuulahdus",
+            "pl": "Zapach z\u0142ota",
+            "se": "Doft av guld",
+            "es": "Esencia de Oro"
+        },
+        "desc": {
+            "en": "Increased chance of finding bonus items when breaking blocks",
+            "fi": "Todenn\u00e4k\u00f6isyys lis\u00e4esineiden l\u00f6yt\u00e4miseen nousee blokkeja rikkoessa",
+            "pl": "Zwi\u0119ksza szans\u0119 znalezienia dodatkowych przedmiot\u00f3w po zniszczeniu bloku.",
+            "se": "\u00d6kad chans att hitta bonusf\u00f6rem\u00e5l n\u00e4r du bryter block",
+            "es": "Aumenta la posibilidad de encontrar objetos de bonificaci\u00f3n al romper bloques"
+        },
+        "level": 30,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/07.png"
+    },
+    "Armorer": {
+        "name": {
+            "en": "Armorer",
+            "fi": "Suojattu",
+            "pl": "P\u0142atnerz",
+            "se": "Vapensmed",
+            "es": "Armadura"
+        },
+        "desc": {
+            "en": "Adds 10 Armor",
+            "fi": "Saat 10 lis\u00e4\u00e4 suojaa",
+            "pl": "Dodaje 10 pkt. pancerza.",
+            "se": "L\u00e4gger till 10 i Rustning",
+            "es": "Aumenta 10 de Armadura"
+        },
+        "level": 35,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/08.png"
+    },
+    "Beneficial Savagery": {
+        "name": {
+            "en": "Beneficial Savagery",
+            "fi": "Suotuisasti armoton",
+            "pl": "Dobroczynna brutalno\u015b\u0107",
+            "se": "F\u00f6rm\u00e5nlig vildhet",
+            "es": "Salvajismo Ventajoso"
+        },
+        "desc": {
+            "en": "Killing an AI enemy grants 5% more XP",
+            "fi": "Kukistamalla AI-vihollisen saat 5% lis\u00e4\u00e4 XP:t\u00e4",
+            "pl": "Zabicie przeciwnika SI zapewnia 5% wi\u0119cej PD.",
+            "se": "D\u00f6da en AI-fiende och f\u00e5 5 % mer XP",
+            "es": "Matar a un enemigo de la IA otorga 5% m\u00e1s de EXP"
+        },
+        "level": 40,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/09.png"
+    },
+    "Butterfly Hunter": {
+        "name": {
+            "en": "Butterfly Hunter",
+            "fi": "Perhosmets\u00e4st\u00e4j\u00e4",
+            "pl": "\u0141owca motyli",
+            "se": "Fj\u00e4rilsjagare",
+            "es": "Cazamariposas"
+        },
+        "desc": {
+            "en": "25% chance of catching two butterflies instead of one",
+            "fi": "25% mahdollisuus napata kaksi perhosta yhden sijaan",
+            "pl": "25% szans na z\u0142apanie dw\u00f3ch motyli zamiast jednego.",
+            "se": "25 % chans att f\u00e5nga tv\u00e5 fj\u00e4rilar ist\u00e4llet f\u00f6r en",
+            "es": "25% de posibilidad de atrapar dos mariposas en vez de una"
+        },
+        "level": 45,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/10.png"
+    },
+    "Builder": {
+        "name": {
+            "en": "Builder",
+            "fi": "Rakentaja",
+            "pl": "Budowniczy",
+            "se": "Byggare",
+            "es": "Constructor"
+        },
+        "desc": {
+            "en": "Place blocks and use the Wrench one step further",
+            "fi": "Pystyt k\u00e4ytt\u00e4m\u00e4\u00e4n jakoavainta ja laittamaan blokkeja yhden blokin kauemmaksi",
+            "pl": "Umieszczasz bloki i u\u017cywasz klucza o jeden krok dalej.",
+            "se": "Placera block och anv\u00e4nd skiftnyckeln ett steg till",
+            "es": "Coloca los bloques y usa la Llave Inglesa un paso m\u00e1s adelante"
+        },
+        "level": 50,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/11.png"
+    },
+    "Sub Aquatic": {
+        "name": {
+            "en": "Sub-aquatic",
+            "fi": "Sukeltaja",
+            "pl": "Pod wod\u0105",
+            "se": "Undervattensvarelse",
+            "es": "Subacu\u00e1tico"
+        },
+        "desc": {
+            "en": "Allows underwater breathing",
+            "fi": "Pystyt hengitt\u00e4m\u00e4\u00e4n veden alla",
+            "pl": "Umo\u017cliwia oddychanie pod wod\u0105.",
+            "se": "L\u00e5ter dig andas under vatten",
+            "es": "Permite respirar bajo el agua"
+        },
+        "level": 55,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/12.png"
+    },
+    "Fire Walker": {
+        "name": {
+            "en": "Fire Walker",
+            "fi": "Kuumakenk\u00e4",
+            "pl": "Krocz\u0105cy po ogniu",
+            "se": "Brands\u00e4ker",
+            "es": "Caminante de Fuego"
+        },
+        "desc": {
+            "en": "Lava block does 10% less damage",
+            "fi": "Laavablokit tekev\u00e4t 10% v\u00e4hemm\u00e4n vahinkoa",
+            "pl": "Blok lawy zadaje 10% obra\u017ce\u0144 mniej.",
+            "se": "Lavablock orsakar 10 % mindre skada",
+            "es": "El bloque de lava causa 10% menos de da\u00f1o"
+        },
+        "level": 60,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/13.png"
+    },
+    "Here Comes The Pain": {
+        "name": {
+            "en": "Here Comes the Pain",
+            "fi": "Piinaaja",
+            "pl": "Nadchodzi b\u00f3l",
+            "se": "Sm\u00e4rtsamt",
+            "es": "M\u00e1s Dolor"
+        },
+        "desc": {
+            "en": "10% more damage to all players and enemies",
+            "fi": "Aiheutat 10% lis\u00e4vahinkoa muihin pelaajiin ja vihollisiin",
+            "pl": "Zwi\u0119ksza o 10% obra\u017cenia zadawane wszystkim graczom i wrogom.",
+            "se": "10 % mer skada mot alla spelare och fiender",
+            "es": "10% m\u00e1s de da\u00f1o contra todos los jugadores y enemigos"
+        },
+        "level": 65,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/14.png"
+    },
+    "Helping Hand": {
+        "name": {
+            "en": "Helping Hand",
+            "fi": "Auttava k\u00e4si",
+            "pl": "Pomocna d\u0142o\u0144",
+            "se": "En hj\u00e4lpande hand",
+            "es": "Mano Amiga"
+        },
+        "desc": {
+            "en": "10% health bonus to player when using a Familiar",
+            "fi": "10% bonus el\u00e4m\u00e4pisteisiin, kun mukanasi on familiaari",
+            "pl": "10% wi\u0119cej punkt\u00f3w zdrowia, gdy gracz korzysta z pomocy towarzysza.",
+            "se": "10 % h\u00e4lsobonus till spelaren n\u00e4r en familjemedlem anv\u00e4nds",
+            "es": "10% de bonificaci\u00f3n de salud al usar un Compa\u00f1ero"
+        },
+        "level": 70,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/15.png"
+    },
+    "Heavy Hit": {
+        "name": {
+            "en": "Heavy Hit",
+            "fi": "Raskas isku",
+            "pl": "Mocne uderzenie",
+            "se": "Tungviktsslag",
+            "es": "Golpe Duro"
+        },
+        "desc": {
+            "en": "50% more damage to all players and enemies. Hit frequency is reduced by 50%",
+            "fi": "50% enemm\u00e4n vahinkoa muihin pelaajiin ja vihollisiin. Isket 50% hitaammin",
+            "pl": "Zwi\u0119ksza o 50% obra\u017cenia zadawane wszystkim graczom i wrogom. Cz\u0119stotliwo\u015b\u0107 trafie\u0144 zostaje obni\u017cona o 50%.",
+            "se": "50 % mer skada mot alla spelare och fiender Slagfrekvensen minskar med 50 %",
+            "es": "50% m\u00e1s de da\u00f1o a todos los jugadores y enemigos La frecuencia del golpe se reduce un 50%"
+        },
+        "level": 75,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/16.png"
+    },
+    "Fish On": {
+        "name": {
+            "en": "Fish On!",
+            "fi": "Kalaan!",
+            "pl": "Ale ryba!",
+            "se": "Fiska p\u00e5!",
+            "es": "\u00a1A pescar!"
+        },
+        "desc": {
+            "en": "Fishing Strike Frequency is increased by 5%",
+            "fi": "Kalat iskev\u00e4t 5% useammin",
+            "pl": "Cz\u0119stotliwo\u015b\u0107 brania ryb zwi\u0119ksza si\u0119 o 5%.",
+            "se": "Fiskelyckan \u00f6kas med 5 %",
+            "es": "La Frecuencia de Pique en la Pesca aumenta un 5%"
+        },
+        "level": 80,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/17.png"
+    },
+    "Bullseye": {
+        "name": {
+            "en": "Bullseye",
+            "fi": "Napakymppi",
+            "pl": "\u015arodek tarczy",
+            "se": "Fulltr\u00e4ff",
+            "es": "En el Blanco"
+        },
+        "desc": {
+            "en": "5% more damage to other players and AI enemies when using Ranged Weapons",
+            "fi": "5% enemm\u00e4n vahinkoa muihin pelaajiin ja AI-vihollisiin kauaskantoisella aseella",
+            "pl": "Zwi\u0119ksza o 5% obra\u017cenia zadawane innym graczom i przeciwnikom SI za pomoc\u0105 broni dystansowej.",
+            "se": "5 % mer skada mot andra spelare och AI-fiender n\u00e4r avst\u00e5ndsvapen anv\u00e4nds",
+            "es": "5% m\u00e1s de da\u00f1o a otros jugadores y enemigos de la IA al usar Armas de Alcance"
+        },
+        "level": 85,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/18.png"
+    },
+    "Elemental Armor": {
+        "name": {
+            "en": "Elemental Armor",
+            "fi": "Elementtihaarniska",
+            "pl": "Pancerz \u017cywio\u0142\u00f3w",
+            "se": "Elementrustning",
+            "es": "Armadura Elemental"
+        },
+        "desc": {
+            "en": "Adds 3 to every Elemental Armor",
+            "fi": "Lis\u00e4\u00e4 3 jokaiseen elementtisuojaan",
+            "pl": "Dodaje 3 punkty do ka\u017cdego pancerza \u017cywio\u0142\u00f3w.",
+            "se": "Ger 3 till varje elementrustning",
+            "es": "Agrega 3 a toda Armadura Elemental"
+        },
+        "level": 90,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/19.png"
+    },
+    "Bad Bowels": {
+        "name": {
+            "en": "Bad Bowels",
+            "fi": "Ilma vaivaa",
+            "pl": "B\u00f3l brzucha",
+            "se": "D\u00e5lig mage",
+            "es": "Mala Digesti\u00f3n"
+        },
+        "desc": {
+            "en": "Jumping results in random flatulence",
+            "fi": "Hypp\u00e4\u00e4minen saatta johtaa satunnaisiin ilmavaivoihin",
+            "pl": "Skoki skutkuj\u0105 wyst\u0119puj\u0105cym losowo wzd\u0119ciem.",
+            "se": "Hoppande resultater i slumpm\u00e4ssig flatulens",
+            "es": "Saltar ocasiona flatulencias ocasionales"
+        },
+        "level": 95,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/20.png"
+    },
+    "Healthy Hit": {
+        "name": {
+            "en": "Healthy Hit",
+            "fi": "Terveysisku",
+            "pl": "Zdrowe uderzenie",
+            "se": "H\u00e4lsosamt slag",
+            "es": "Golpe Vital"
+        },
+        "desc": {
+            "en": "5% more damage with full health. 10% less damage if wounded",
+            "fi": "Aiheutat 5% enemm\u00e4n vahinkoa t\u00e4ysill\u00e4 el\u00e4m\u00e4pisteill\u00e4. 10% v\u00e4hemm\u00e4n vahinkoa, jos olet vahingoittunut",
+            "pl": "Zwi\u0119ksza o 5% obra\u017cenia zadawane z maksymalnym poziomem zdrowia. Zmniejsza o 10% obra\u017cenia, gdy posta\u0107 jest ranna.",
+            "se": "5 % mer skada vid full h\u00e4lsa 10 % mindre skada om du \u00e4r skadad",
+            "es": "5% m\u00e1s de da\u00f1o al tener toda la salud 10% menos de da\u00f1o al estar herido"
+        },
+        "level": 100,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/21.png"
+    },
+    "Quest Hoarder": {
+        "name": {
+            "en": "Quest Hoarder",
+            "fi": "Teht\u00e4v\u00e4hamsteri",
+            "pl": "Kolekcjoner zada\u0144",
+            "se": "Jaktsamlare",
+            "es": "Coleccionista de Misiones"
+        },
+        "desc": {
+            "en": "Get new quests more often",
+            "fi": "Saat uusia teht\u00e4vi\u00e4 useammin",
+            "pl": "Cz\u0119\u015bciej otrzymujesz nowe zadania.",
+            "se": "F\u00e5 nya jakter oftare",
+            "es": "Obt\u00e9n misiones m\u00e1s a menudo"
+        },
+        "level": 105,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/22.png"
+    },
+    "Critical Strike": {
+        "name": {
+            "en": "Critical Strike",
+            "fi": "Kriittinen isku",
+            "pl": "Krytyczne uderzenie",
+            "se": "Farligt slag",
+            "es": "Golpe Cr\u00edtico"
+        },
+        "desc": {
+            "en": "Increased chance of Critical Hits",
+            "fi": "Kriittisten iskujen todenn\u00e4k\u00f6isyys kasvaa",
+            "pl": "Zwi\u0119ksza szans\u0119 na trafienie krytyczne.",
+            "se": "\u00d6kad chans f\u00f6r farliga slag",
+            "es": "Aumenta la posibilidad de golpes cr\u00edticos"
+        },
+        "level": 110,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/23.png"
+    },
+    "Booster Booster": {
+        "name": {
+            "en": "Booster Booster",
+            "fi": "Boosterin boosteri",
+            "pl": "Paczka paczek",
+            "se": "Boosterbooster",
+            "es": "Potenciador de Paquetes"
+        },
+        "desc": {
+            "en": "Increased chance of getting rarer items from boosters",
+            "fi": "Todenn\u00e4k\u00f6isyys harvinaisempiin esineisiin boostereista kasvaa",
+            "pl": "Zwi\u0119kszona szansa na zdobycie rzadszych przedmiot\u00f3w w paczkach.",
+            "se": "\u00d6kad chans att f\u00e5 ovanliga f\u00f6rem\u00e5l fr\u00e5n boosters",
+            "es": "Aumenta la posibilidad de obtener objetos m\u00e1s raros en los potenciadores"
+        },
+        "level": 115,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/24.png"
+    },
+    "Kamikaze": {
+        "name": {
+            "en": "Kamikaze",
+            "fi": "Kamikaze",
+            "pl": "Kamikaze",
+            "se": "Kamikaze",
+            "es": "Kamikaze"
+        },
+        "desc": {
+            "en": "Lowers your health by 10%, but increases damage by 5%",
+            "fi": "Alentaa el\u00e4m\u00e4pisteit\u00e4 10%, mutta tekem\u00e4si vahinko nousee 5%",
+            "pl": "Obni\u017ca poziom zdrowia o 10%, zwi\u0119kszaj\u0105c o 5% zadawane obra\u017cenia.",
+            "se": "Minskar din h\u00e4lsa med 10 % men \u00f6kar skada med 5 %",
+            "es": "Disminuye tu salud un 10%, pero aumenta el da\u00f1o un 5%"
+        },
+        "level": 120,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/25.png"
+    },
+    "Exploding Guts": {
+        "name": {
+            "en": "Exploding Guts",
+            "fi": "R\u00e4j\u00e4ht\u00e4v\u00e4t sisukset",
+            "pl": "Eksploduj\u0105ce wn\u0119trzno\u015bci",
+            "se": "Explosiv mage",
+            "es": "Tripas Explosivas"
+        },
+        "desc": {
+            "en": "You explode when killed, damaging others near you",
+            "fi": "R\u00e4j\u00e4hd\u00e4t, kun sinut kukistetaan, vahingoittaen muita ymp\u00e4rill\u00e4si",
+            "pl": "Po \u015bmierci wybuchasz, rani\u0105c znajduj\u0105ce si\u0119 w pobli\u017cu postacie.",
+            "se": "Du exploderar n\u00e4r du d\u00f6das och skadar andra n\u00e4ra dig",
+            "es": "Explotas al morir, da\u00f1ando a los que est\u00e1n cerca de ti"
+        },
+        "level": 125,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/26.png"
+    },
+    "Immovable": {
+        "name": {
+            "en": "Immovable",
+            "fi": "J\u00e4rk\u00e4ht\u00e4m\u00e4t\u00f6n",
+            "pl": "Niez\u0142omno\u015b\u0107",
+            "se": "Orubblig",
+            "es": "Inquebrantable"
+        },
+        "desc": {
+            "en": "Removes knockback to self when hit",
+            "fi": "Pystyt ottamaan osumia vastaan liikahtamatta",
+            "pl": "Usuwa efekt odepchni\u0119cia po trafieniu postaci.",
+            "se": "Undviker egen sm\u00e4ll vid tr\u00e4ff",
+            "es": "Elimina el bloqueo a s\u00ed mismo al recibir un golpe"
+        },
+        "level": 130,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/27.png"
+    },
+    "Fierce Companion": {
+        "name": {
+            "en": "Fierce Companion",
+            "fi": "Kova kumppani",
+            "pl": "Gro\u017any towarzysz",
+            "se": "Bitsk f\u00f6ljeslagare",
+            "es": "Camarada Feroz"
+        },
+        "desc": {
+            "en": "3% damage bonus with a familiar equipped",
+            "fi": "3% vahinkobonus, kun familiaari on k\u00e4yt\u00f6ss\u00e4",
+            "pl": "Zwi\u0119ksza o 3% obra\u017cenia, gdy masz przy sobie towarzysza.",
+            "se": "3 % skadebonus med en utrustad familjemedlem",
+            "es": "3% de bonificaci\u00f3n de da\u00f1o al tener equipado un compa\u00f1ero"
+        },
+        "level": 135,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/28.png"
+    },
+    "Confusing Blow": {
+        "name": {
+            "en": "Confusing Blow",
+            "fi": "H\u00e4mment\u00e4v\u00e4 isku",
+            "pl": "Cios dezorientuj\u0105cy",
+            "se": "F\u00f6rvillande skott",
+            "es": "Ataque de Confusi\u00f3n"
+        },
+        "desc": {
+            "en": "Slight chance of other player getting inverted controls when hit with a Melee Weapon",
+            "fi": "Pieni mahdollisuus muuttaa toisen pelaajan kontrollit k\u00e4\u00e4nteisiksi",
+            "pl": "Niewielka szansa na odwr\u00f3cenie kierunku sterowania po trafieniu broni\u0105 do walki wr\u0119cz.",
+            "se": "Liten chans att andra spelares kontroller f\u00f6rv\u00e4xlas n\u00e4r de tr\u00e4ffas av ett handgem\u00e4ngsvapen",
+            "es": "Al golpear con un arma mel\u00e9, existe una peque\u00f1a posibilidad de que los controles del otro jugador se inviertan"
+        },
+        "level": 140,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/29.png"
+    },
+    "Stockbroker": {
+        "name": {
+            "en": "Stockbroker",
+            "fi": "P\u00f6rssimeklari",
+            "pl": "Makler",
+            "se": "B\u00f6rsm\u00e4klare",
+            "es": "Corredor de Bolsa"
+        },
+        "desc": {
+            "en": "1% point discount to all commission and deposit values in the PWE",
+            "fi": "1%-yksik\u00f6n alennus kaikista provisioista ja talletusmaksuista PWE:ss\u00e4",
+            "pl": "1% zni\u017cki punktowej na wszystkie zam\u00f3wienia i depozyty na gie\u0142dzie PWE.",
+            "se": "1 % po\u00e4ngrabatt p\u00e5 all provisions- och ins\u00e4ttningsv\u00e4rden i PWE",
+            "es": "1% de descuento en todas las comisiones y montos de dep\u00f3sito en la PWE"
+        },
+        "level": 150,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/30.png"
+    },
+    "Puzzle Solver": {
+        "name": {
+            "en": "Puzzle Master",
+            "fi": "Palapelimestari",
+            "pl": "Mistrz \u0142amig\u0142\u00f3wek",
+            "se": "Pusselm\u00e4stare",
+            "es": "Maestro del Rompecabezas"
+        },
+        "desc": {
+            "en": "Adds 30 seconds to puzzle minigames",
+            "fi": "Lis\u00e4\u00e4 30 sekuntia palapeleihin",
+            "pl": "Dodaje 30 sekund do minigier z uk\u0142adankami",
+            "se": "L\u00e4gger till 30 sekunder till pusselminispel",
+            "es": "A\u00f1ade 30 segundos a los minijuegos de rompecabezas"
+        },
+        "level": 160,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/31.png"
+    },
+    "Antidote": {
+        "name": {
+            "en": "Antidote",
+            "fi": "Vastamyrkky",
+            "pl": "Antidotum",
+            "se": "Motgift",
+            "es": "Ant\u00eddoto"
+        },
+        "desc": {
+            "en": "Poisoned state time is reduced by 25%",
+            "fi": "25% v\u00e4hennys myrkytyksen kestoon",
+            "pl": "Okres zatrucia zostaje skr\u00f3cony o 25%.",
+            "se": "F\u00f6rgiftningstiden minskar med 25 %",
+            "es": "El tiempo del estado de envenenado se reduce un 25%"
+        },
+        "level": 170,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/32.png"
+    },
+    "Pet Trainer": {
+        "name": {
+            "en": "Pet Trainer",
+            "fi": "Lemmikkikouluttaja",
+            "pl": "Trener zwierz\u0105t",
+            "se": "Husdjurstr\u00e4nare",
+            "es": "Entrenador de Mascotas"
+        },
+        "desc": {
+            "en": "Pets gain 50% more obedience on every command",
+            "fi": "50% lis\u00e4ys lemmikin tottelevaisuuteen per koulutus",
+            "pl": "Zwierzaki zyskuj\u0105 50% w ka\u017cdym poleceniu",
+            "se": "Husdjur tj\u00e4nar 50 % mer lydnad vid varje kommando",
+            "es": "Las mascotas obtienen un 50% m\u00e1s de obediencia en cada orden"
+        },
+        "level": 180,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/33.png"
+    },
+    "Jet Magnet": {
+        "name": {
+            "en": "Flying Magnet",
+            "fi": "Lent\u00e4v\u00e4 magneetti",
+            "pl": "Lataj\u0105cy magnes",
+            "se": "Flygande magnet",
+            "es": "Im\u00e1n Volador"
+        },
+        "desc": {
+            "en": "Collect items from a further distance in Jet Race",
+            "fi": "Ker\u00e4\u00e4 esineet kauempaa rakettikisassa",
+            "pl": "W wy\u015bcigu lotniczym mo\u017cesz zbiera\u0107 przedmioty z dalszej odleg\u0142o\u015bci",
+            "se": "Samla f\u00f6rem\u00e5l fr\u00e5n l\u00e4ngre distans i Jet Race.",
+            "es": "Recolecta objetos desde una gran distancia en la Carrera de Aviones"
+        },
+        "level": 190,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/34.png"
+    },
+    "Vampire": {
+        "name": {
+            "en": "Vampire",
+            "fi": "Vampyyri",
+            "pl": "Wampir",
+            "se": "Vampyr",
+            "es": "Vampiro"
+        },
+        "desc": {
+            "en": "Defeating a monster replenishes 1% of the player's health",
+            "fi": "Jokaisen monsterin tuhoaminen antaa 1% el\u00e4m\u00e4\u00e4 takaisin",
+            "pl": "Pokonanie potwora przywraca graczowi 1% zdrowia",
+            "se": "Att besegra ett monster fyller p\u00e5 1 % i spelarens h\u00e4lsa",
+            "es": "Al derrotar a un monstruo se recupera un 1% la salud del jugador"
+        },
+        "level": 200,
+        "image": "https://raw.githubusercontent.com/ProgrammindDev/PixelWorldsDatabase/main/assets/perks/35.png"
+    }
+}
